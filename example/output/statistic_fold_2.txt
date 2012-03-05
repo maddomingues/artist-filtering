@@ -1,0 +1,4604 @@
+-> General Statistics
+
+Number of artists: 251
+Number of songs: 368
+
+Number of songs per artist:
+3_Doors_Down: 38
+Alabama: 10
+Alan_Jackson: 12
+Alison_Krauss__Union_Station: 23
+America: 29
+American_Hi-Fi: 10
+Arctic_Monkeys: 11
+Ashlee_Simpson: 23
+Average_White_Band: 14
+Backstreet_Boys: 16
+Barbara_Acklin: 10
+Beastie_Boys: 10
+Beck: 43
+Beirut: 13
+Ben_Harper: 14
+Ben_Kweller: 10
+Bert_Jansch: 10
+Bert_Kaempfert: 11
+Betty_Everett: 12
+Bill_Haley__His_Comets: 11
+Billie_Myers: 13
+Billy_Preston: 13
+Blackstreet_feat_Dr_Dre: 10
+Black_Tide: 12
+Bloc_Party: 12
+Bobby_Vee: 14
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 11
+Booker_T__The_MGs: 25
+Boots_Randolph: 13
+Boozoo_Bajou: 7
+Bouncing_Souls: 13
+Bright_Eyes: 14
+Buddy_Guy: 12
+Buffalo_Springfield: 26
+Buju_Banton: 10
+Burl_Ives: 10
+Captain_Hollywood_Project: 7
+Carl_Smith: 11
+Carly_Simon: 15
+Carpenters: 53
+Chaka_Demus__Pliers: 11
+Cheap_Trick: 22
+Chet_Atkins__Les_Paul: 13
+Chris_Kenner: 16
+Chris_Tomlin: 12
+Cinderella: 20
+Clarence_Frogman_Henry: 15
+Cocoa_Tea: 12
+Colbie_Caillat: 12
+Coldplay: 41
+Collective_Soul: 12
+Combichrist: 10
+Creedence_Clearwater_Revival: 72
+Crystal_Castles: 11
+Cyndi_Lauper: 10
+Daft_Punk: 19
+Danny__The_Juniors: 20
+Darryl_Worley: 12
+Dar_Williams: 26
+Datarock: 11
+Dead_Or_Alive: 14
+Death_Cab_for_Cutie: 11
+Destinys_Child_featuring_Wyclef_Jean: 12
+Diana_Ross: 18
+Dido: 56
+Divinyls: 12
+Doyle_Dykes: 11
+Eagles: 54
+Earl_Hooker: 12
+Eric_Carmen: 13
+Etta_Baker: 11
+Evelyn_Champagne_King: 14
+Faith_No_More: 18
+Fats_Domino: 28
+FC_Kahuna: 10
+Foo_Fighters: 37
+Foreigner: 12
+Frankie_Paul: 13
+Franz_Ferdinand: 10
+Frou_Frou: 13
+Fugees: 12
+George_Jones: 18
+George_Michael: 22
+Gillian_Welch: 12
+Girl_Talk: 21
+Gold_City: 15
+Gorillaz: 22
+Groove_Theory: 10
+Hank_Williams: 11
+Heatwave: 19
+Ini_Kamoze: 11
+Jackie_Wilson: 16
+Jack_Johnson: 101
+James_McMurtry: 24
+James_Taylor: 55
+Jamie_Lidell: 12
+Jamie_ONeal: 10
+Jason_Aldean: 10
+Jay__The_Americans: 22
+Jefferson_Starship: 14
+Jem: 20
+Jenny_Lewis_with_The_Watson_Twins: 23
+Jodeci: 12
+Joe_Bonamassa: 10
+Johnny_Lee: 13
+Johnny_Otis: 11
+Johnny_Winter: 16
+Jonah33: 10
+Jordin_Sparks: 16
+Josh_Turner: 38
+Joss_Stone: 54
+Judas_Priest: 11
+Kathy_Mattea: 13
+Keith_Whitley: 10
+Kelly_Clarkson: 35
+La_Bouche: 10
+Ladytron: 10
+Lauryn_Hill: 21
+Led_Zeppelin: 52
+Lee_Ann_Womack: 12
+Lefty_Frizzell: 14
+Les_Claypool: 12
+Letoya: 11
+Lindsay_Lohan: 23
+Little_Anthony_and_The_Imperials: 15
+Liz_Story: 10
+Lloyd: 10
+Los_Lonely_Boys: 14
+Lucinda_Williams: 43
+Lyle_Lovett: 12
+Manchester_Orchestra: 21
+Manu_Chao: 12
+Margot__The_Nuclear_So_And_Sos: 17
+Mariah_Carey: 24
+Marilyn_Manson: 12
+Mark_Schultz: 12
+Martha__The_Vandellas: 30
+Matt_Nathanson: 13
+Mcfadden__Whitehead: 19
+Mel_Carter: 15
+Melissa_Manchester: 12
+MercyME: 11
+MGMT: 13
+Mice_Parade: 10
+Michael_Hedges: 10
+Michael_Jackson: 62
+Mike_Doughty: 23
+Mississippi_John_Hurt: 43
+Miss_Kittin__The_Hacker: 8
+Mitch_Ryder__The_Detroit_Wheels: 14
+Modest_Mouse: 43
+Muddy_Waters: 10
+Musical_Youth: 14
+Nirvana: 61
+Nitty_Gritty_Dirt_Band: 10
+No_Doubt: 10
+Of_Montreal: 10
+Okkervil_River: 52
+Orgy: 17
+Otis_Redding: 18
+Parliament: 43
+Patty_Griffin: 83
+Paul_van_Dyk_Ft_Vega_4: 10
+Phil_Collins: 23
+Phil_Vassar: 11
+PM_Dawn: 11
+Portishead: 40
+Pretenders: 15
+Prince__The_Revolution: 12
+Rage_Against_The_Machine: 28
+Red_Hot_Chili_Peppers: 11
+REM: 18
+Richard_Thompson: 34
+Rihanna: 25
+Ritchie_Valens: 14
+Robert_Johnson: 11
+Robin_Thicke: 11
+Ryan_Adams: 10
+Sam_Cooke: 14
+Sam__Dave: 31
+Secret_Garden: 11
+Shakira: 18
+Shalamar: 16
+Shelby_Lynne: 10
+Shudder_To_Think: 10
+Simon__Garfunkel: 14
+Sizzla: 10
+Smokey_Robinson__The_Miracles: 59
+Solomon_Burke: 16
+Son_House: 10
+Sons_And_Daughters: 12
+Spiritualized: 11
+Stars: 23
+Steve_Earle: 12
+Sting: 19
+Stray_Cats: 11
+Switchfoot: 14
+Tanto_Metro__Devonte: 10
+Taylor_Swift: 11
+THE_AD_LIBS: 13
+The_Animals: 27
+The_Beta_Band: 13
+The_Breeders: 11
+The_Cranberries: 15
+The_Delfonics: 25
+The_Derailers: 10
+The_Doobie_Brothers: 15
+The_Doors: 39
+The_Edwin_Hawkins_Singers: 18
+The_Elegants: 12
+The_Felice_Brothers: 33
+The_Fiery_Furnaces: 13
+The_Five_Stairsteps: 13
+The_Fortunes: 15
+The_Grascals: 34
+The_Kills: 83
+The_Kingsmen: 11
+The_Lemonheads: 10
+The_Living_End: 10
+Thelma_Houston: 15
+The_Manhattans: 13
+The_Offspring: 12
+The_Original_Five_Blind_Boys_Of_Alabama: 11
+Theory_Of_A_Deadman: 11
+The_Penguins: 12
+The_Presets: 22
+The_Pussycat_Dolls: 29
+The_Shangri-Las: 14
+The_Shirelles: 16
+The_Troggs: 15
+The_Weather_Girls: 15
+Thievery_Corporation: 9
+Third_Day: 39
+Tift_Merritt: 14
+Tilly_And_The_Wall: 13
+Toby_Keith: 11
+Tom_Tom_Club: 18
+Toni_Braxton: 15
+Tracy_Chapman: 11
+Trisha_Yearwood: 20
+Tyrese: 10
+Vampire_Weekend: 28
+Veracocha: 7
+War: 14
+Webb_Pierce: 10
+White_Lion: 21
+Wilco: 35
+Wild_Cherry: 21
+Xavier_Rudd: 15
+Yellowcard: 15
+Zero_7: 12
+
+Number of artists per genre:
+a_busy_horn_section: 24
+a_clear_focus_on_recording_studio_production: 40
+acoustic_guitar: 9
+acoustic_rhythm_guitars: 95
+acoustic_rhythm_piano: 89
+acoustic_sonority: 51
+adult_contemporary: 24
+a_dynamic_female_vocal: 19
+a_dynamic_male_vocal: 41
+a_gravelly_male_vocalist: 10
+alternative: 97
+a_mid-tempo_swing_feel: 10
+an_aggressive_male_vocalist: 5
+an_electric_guitar_solo: 24
+an_emotional_male_vocal: 33
+an_instrumental_arrangement: 12
+a_reggae_feel: 7
+a_slow_moving_bass_line: 5
+a_smooth_male_vocal: 12
+a_subtle_use_of_vocal_harmony: 129
+a_tight_kick_sound: 10
+a_vocal-centric_aesthetic: 110
+basic_rock_song_structures: 45
+blues: 42
+blues_influences: 23
+blues_roots: 7
+christian: 15
+classic_rock: 70
+classic_soul_qualities: 24
+country: 53
+country_influences: 18
+country_roots: 21
+dance: 80
+danceable_beats: 7
+demanding_instrumental_part_writing: 38
+disco: 19
+disco_influences: 12
+easy_listening: 52
+electric_guitar_riffs: 56
+electric_piano: 30
+electric_rhythm_guitars: 23
+electric_rock_instrumentation: 27
+electro: 16
+electronic: 42
+electronica: 30
+electronica_influences: 31
+extensive_vamping: 105
+festival: 53
+folk: 52
+folk_influences: 40
+folk_roots: 11
+funk: 41
+great_lyrics: 13
+groove_based_composition: 33
+hard_rock: 30
+hard_rock_roots: 14
+heartbreaking_lyrics: 26
+heavy_metal: 11
+heavy_use_of_vocal_harmonies: 24
+hip_hop: 23
+intricate_melodic_phrasing: 42
+jazz: 32
+live: 23
+major_tonality: 179
+mellow_rock_instrumentation: 21
+melodic_songwriting: 50
+mild_rhythmic_syncopation: 87
+minor_key_tonality: 72
+mixed_acoustic_and_electric_instrumentation: 91
+modern_rb_stylings: 17
+motown: 17
+oldies: 81
+paired_vocal_harmony: 34
+pop: 158
+pop_rock_qualities: 17
+prevalent_use_of_groove: 6
+prominent_organ: 29
+prominent_percussion: 33
+punk_influences: 18
+rb: 49
+reggae: 16
+repetitive_melodic_phrasing: 84
+rock: 155
+romantic_lyrics: 36
+smooth_jazz: 5
+solo_strings: 21
+string_section_beds: 22
+subtle_use_of_acoustic_piano: 26
+thru_composed_melodic_style: 35
+triple_note_feel: 24
+trippy_soundscapes: 9
+upbeat_lyrics: 21
+use_of_a_string_ensemble: 17
+vocal_harmonies: 44
+
+
+-> Statistics Per Tag
+
+Statistics for a_dynamic_female_vocal
+Size for the fold: 20 songs
+Number of artists: 19
+Number of songs: 20
+Number of songs per artist:
+Captain_Hollywood_Project: 1
+Carly_Simon: 1
+Carpenters: 1
+Crystal_Castles: 1
+Cyndi_Lauper: 1
+Diana_Ross: 1
+FC_Kahuna: 1
+Kathy_Mattea: 1
+Kelly_Clarkson: 1
+La_Bouche: 1
+Ladytron: 1
+Lauryn_Hill: 1
+Lucinda_Williams: 2
+Mariah_Carey: 1
+Melissa_Manchester: 1
+No_Doubt: 1
+Portishead: 1
+The_Pussycat_Dolls: 1
+Tracy_Chapman: 1
+
+Statistics for a_slow_moving_bass_line
+Size for the fold: 6 songs
+Number of artists: 5
+Number of songs: 6
+Number of songs per artist:
+Beastie_Boys: 1
+Beck: 1
+Girl_Talk: 2
+Gorillaz: 1
+Paul_van_Dyk_Ft_Vega_4: 1
+
+Statistics for a_tight_kick_sound
+Size for the fold: 11 songs
+Number of artists: 10
+Number of songs: 11
+Number of songs per artist:
+Beastie_Boys: 1
+Captain_Hollywood_Project: 1
+Crystal_Castles: 1
+Daft_Punk: 2
+FC_Kahuna: 1
+Girl_Talk: 1
+Gorillaz: 1
+La_Bouche: 1
+Miss_Kittin__The_Hacker: 1
+Paul_van_Dyk_Ft_Vega_4: 1
+
+Statistics for alternative
+Size for the fold: 144 songs
+Number of artists: 97
+Number of songs: 144
+Number of songs per artist:
+3_Doors_Down: 3
+American_Hi-Fi: 1
+Arctic_Monkeys: 1
+Ashlee_Simpson: 2
+Beastie_Boys: 1
+Beck: 3
+Beirut: 1
+Ben_Harper: 1
+Ben_Kweller: 1
+Billie_Myers: 1
+Bloc_Party: 1
+Bouncing_Souls: 1
+Bright_Eyes: 1
+Cheap_Trick: 1
+Colbie_Caillat: 1
+Coldplay: 3
+Collective_Soul: 1
+Combichrist: 1
+Crystal_Castles: 1
+Cyndi_Lauper: 1
+Daft_Punk: 2
+Dar_Williams: 1
+Datarock: 1
+Dead_Or_Alive: 1
+Dido: 4
+Divinyls: 1
+Faith_No_More: 1
+Foo_Fighters: 3
+Foreigner: 1
+Franz_Ferdinand: 1
+Frou_Frou: 1
+Girl_Talk: 1
+Gorillaz: 2
+Jack_Johnson: 7
+James_McMurtry: 1
+James_Taylor: 1
+Jem: 1
+Jenny_Lewis_with_The_Watson_Twins: 2
+Jodeci: 1
+Kelly_Clarkson: 3
+Ladytron: 1
+Les_Claypool: 1
+Lindsay_Lohan: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 1
+Lyle_Lovett: 1
+Manchester_Orchestra: 2
+Manu_Chao: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Marilyn_Manson: 1
+Matt_Nathanson: 1
+MercyME: 1
+MGMT: 1
+Miss_Kittin__The_Hacker: 1
+Modest_Mouse: 3
+Nirvana: 5
+No_Doubt: 1
+Of_Montreal: 1
+Okkervil_River: 4
+Orgy: 1
+Patty_Griffin: 2
+Phil_Collins: 1
+Portishead: 3
+Pretenders: 1
+Rage_Against_The_Machine: 2
+Red_Hot_Chili_Peppers: 1
+REM: 1
+Richard_Thompson: 2
+Ryan_Adams: 1
+Shakira: 1
+Shudder_To_Think: 1
+Spiritualized: 1
+Stars: 2
+Sting: 1
+Switchfoot: 1
+Taylor_Swift: 1
+The_Animals: 1
+The_Beta_Band: 1
+The_Breeders: 1
+The_Cranberries: 1
+The_Doors: 1
+The_Felice_Brothers: 1
+The_Fiery_Furnaces: 1
+The_Kills: 6
+The_Lemonheads: 1
+The_Living_End: 1
+The_Offspring: 1
+Theory_Of_A_Deadman: 1
+The_Presets: 1
+Thievery_Corporation: 1
+Tom_Tom_Club: 1
+Vampire_Weekend: 2
+White_Lion: 1
+Wilco: 3
+Xavier_Rudd: 1
+Yellowcard: 1
+Zero_7: 1
+
+Statistics for danceable_beats
+Size for the fold: 8 songs
+Number of artists: 7
+Number of songs: 7
+Number of songs per artist:
+Beastie_Boys: 1
+Beck: 1
+Boozoo_Bajou: 1
+FC_Kahuna: 1
+Girl_Talk: 1
+Paul_van_Dyk_Ft_Vega_4: 1
+Veracocha: 1
+
+Statistics for easy_listening
+Size for the fold: 70 songs
+Number of artists: 52
+Number of songs: 70
+Number of songs per artist:
+Alison_Krauss__Union_Station: 1
+America: 1
+Ashlee_Simpson: 1
+Bert_Kaempfert: 1
+Billie_Myers: 1
+Bobby_Vee: 1
+Boots_Randolph: 1
+Carly_Simon: 1
+Carpenters: 4
+Chet_Atkins__Les_Paul: 1
+Colbie_Caillat: 1
+Coldplay: 3
+Collective_Soul: 1
+Creedence_Clearwater_Revival: 1
+Dar_Williams: 1
+Dido: 4
+Eagles: 2
+Eric_Carmen: 1
+Fats_Domino: 1
+Foreigner: 1
+Frou_Frou: 1
+Gorillaz: 1
+Jack_Johnson: 6
+James_Taylor: 3
+Jem: 1
+Jordin_Sparks: 1
+Joss_Stone: 2
+Little_Anthony_and_The_Imperials: 1
+Lucinda_Williams: 1
+Manu_Chao: 1
+Mariah_Carey: 1
+Melissa_Manchester: 1
+Patty_Griffin: 1
+Phil_Collins: 1
+Pretenders: 1
+REM: 1
+Rihanna: 1
+Secret_Garden: 1
+Shakira: 1
+Smokey_Robinson__The_Miracles: 1
+Sting: 1
+Switchfoot: 1
+The_Cranberries: 1
+The_Delfonics: 2
+The_Doobie_Brothers: 1
+The_Edwin_Hawkins_Singers: 1
+The_Five_Stairsteps: 1
+The_Pussycat_Dolls: 1
+Thievery_Corporation: 1
+Toni_Braxton: 1
+Trisha_Yearwood: 1
+Xavier_Rudd: 1
+
+Statistics for electronic
+Size for the fold: 54 songs
+Number of artists: 42
+Number of songs: 54
+Number of songs per artist:
+Ashlee_Simpson: 1
+Beck: 3
+Boozoo_Bajou: 1
+Bouncing_Souls: 1
+Captain_Hollywood_Project: 1
+Coldplay: 1
+Combichrist: 1
+Crystal_Castles: 1
+Daft_Punk: 2
+Datarock: 1
+Dead_Or_Alive: 1
+Dido: 3
+FC_Kahuna: 1
+Frou_Frou: 1
+Girl_Talk: 2
+Gorillaz: 2
+Jem: 1
+Jordin_Sparks: 1
+Kelly_Clarkson: 1
+La_Bouche: 1
+Ladytron: 1
+Marilyn_Manson: 1
+MGMT: 1
+Michael_Jackson: 1
+Miss_Kittin__The_Hacker: 1
+Of_Montreal: 1
+Orgy: 1
+Paul_van_Dyk_Ft_Vega_4: 1
+Portishead: 3
+Spiritualized: 1
+Stars: 2
+Sting: 1
+The_Beta_Band: 1
+The_Kills: 2
+The_Presets: 2
+The_Pussycat_Dolls: 1
+Thievery_Corporation: 1
+Tom_Tom_Club: 1
+Veracocha: 1
+White_Lion: 1
+Wilco: 1
+Zero_7: 1
+
+Statistics for electronica
+Size for the fold: 33 songs
+Number of artists: 30
+Number of songs: 38
+Number of songs per artist:
+Beck: 3
+Bloc_Party: 1
+Boozoo_Bajou: 1
+Combichrist: 1
+Crystal_Castles: 1
+Daft_Punk: 2
+Datarock: 1
+Dead_Or_Alive: 1
+FC_Kahuna: 1
+Frou_Frou: 1
+Girl_Talk: 2
+Gorillaz: 1
+La_Bouche: 1
+Ladytron: 1
+Margot__The_Nuclear_So_And_Sos: 1
+MGMT: 1
+Miss_Kittin__The_Hacker: 1
+Orgy: 1
+Paul_van_Dyk_Ft_Vega_4: 1
+Portishead: 3
+Spiritualized: 1
+Stars: 2
+Sting: 1
+The_Presets: 2
+Thievery_Corporation: 1
+Tom_Tom_Club: 1
+Vampire_Weekend: 1
+Veracocha: 1
+White_Lion: 1
+Zero_7: 1
+
+Statistics for jazz
+Size for the fold: 36 songs
+Number of artists: 32
+Number of songs: 36
+Number of songs per artist:
+Beck: 1
+Bert_Kaempfert: 1
+Billy_Preston: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Boots_Randolph: 1
+Boozoo_Bajou: 1
+Carl_Smith: 1
+Carpenters: 1
+Chet_Atkins__Les_Paul: 1
+Chris_Kenner: 1
+Clarence_Frogman_Henry: 1
+Darryl_Worley: 1
+Earl_Hooker: 1
+Fats_Domino: 1
+Hank_Williams: 1
+Jack_Johnson: 1
+Johnny_Lee: 1
+Joss_Stone: 3
+Lefty_Frizzell: 1
+Les_Claypool: 1
+Los_Lonely_Boys: 1
+Manu_Chao: 1
+Muddy_Waters: 1
+Portishead: 3
+Sam__Dave: 1
+Solomon_Burke: 1
+Sting: 1
+The_Edwin_Hawkins_Singers: 1
+The_Pussycat_Dolls: 1
+The_Weather_Girls: 1
+Thievery_Corporation: 1
+Webb_Pierce: 1
+
+Statistics for smooth_jazz
+Size for the fold: 5 songs
+Number of artists: 5
+Number of songs: 5
+Number of songs per artist:
+James_Taylor: 1
+Joss_Stone: 1
+Liz_Story: 1
+The_Fortunes: 1
+The_Grascals: 1
+
+Statistics for a_vocal-centric_aesthetic
+Size for the fold: 150 songs
+Number of artists: 110
+Number of songs: 150
+Number of songs per artist:
+3_Doors_Down: 3
+Alabama: 1
+Alison_Krauss__Union_Station: 1
+Ashlee_Simpson: 2
+Beck: 1
+Ben_Harper: 1
+Betty_Everett: 1
+Billie_Myers: 1
+Black_Tide: 1
+Bloc_Party: 1
+Bobby_Vee: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Bouncing_Souls: 1
+Buddy_Guy: 1
+Buffalo_Springfield: 1
+Carl_Smith: 1
+Cheap_Trick: 1
+Chris_Tomlin: 1
+Cinderella: 2
+Clarence_Frogman_Henry: 1
+Colbie_Caillat: 1
+Coldplay: 1
+Combichrist: 1
+Creedence_Clearwater_Revival: 2
+Danny__The_Juniors: 1
+Datarock: 1
+Dead_Or_Alive: 1
+Death_Cab_for_Cutie: 1
+Diana_Ross: 1
+Dido: 2
+Eagles: 1
+Eric_Carmen: 1
+Faith_No_More: 1
+Foo_Fighters: 3
+Frou_Frou: 1
+Gold_City: 1
+Gorillaz: 1
+Heatwave: 1
+Jack_Johnson: 6
+James_Taylor: 2
+Jamie_ONeal: 1
+Jay__The_Americans: 1
+Jem: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+Joe_Bonamassa: 1
+Jordin_Sparks: 1
+Josh_Turner: 2
+Joss_Stone: 2
+Judas_Priest: 1
+Kelly_Clarkson: 2
+Lauryn_Hill: 1
+Led_Zeppelin: 2
+Letoya: 1
+Lindsay_Lohan: 2
+Lucinda_Williams: 1
+Manchester_Orchestra: 2
+Margot__The_Nuclear_So_And_Sos: 1
+Mariah_Carey: 1
+Marilyn_Manson: 1
+Martha__The_Vandellas: 1
+Matt_Nathanson: 1
+Michael_Jackson: 2
+Mike_Doughty: 2
+Mississippi_John_Hurt: 1
+Mitch_Ryder__The_Detroit_Wheels: 1
+Modest_Mouse: 3
+Musical_Youth: 1
+Nirvana: 5
+Nitty_Gritty_Dirt_Band: 1
+No_Doubt: 1
+Okkervil_River: 1
+Parliament: 1
+Patty_Griffin: 1
+Phil_Collins: 1
+Rage_Against_The_Machine: 1
+Richard_Thompson: 1
+Rihanna: 1
+Robin_Thicke: 1
+Ryan_Adams: 1
+Shakira: 2
+Shudder_To_Think: 1
+Smokey_Robinson__The_Miracles: 1
+Sons_And_Daughters: 1
+Spiritualized: 1
+Stars: 1
+Tanto_Metro__Devonte: 1
+The_Animals: 1
+The_Beta_Band: 1
+The_Breeders: 1
+The_Cranberries: 1
+The_Doobie_Brothers: 1
+The_Doors: 1
+The_Felice_Brothers: 2
+The_Fiery_Furnaces: 1
+The_Grascals: 3
+The_Kills: 6
+The_Kingsmen: 1
+Thelma_Houston: 1
+The_Penguins: 1
+The_Presets: 1
+The_Troggs: 1
+The_Weather_Girls: 1
+Tilly_And_The_Wall: 1
+Toby_Keith: 1
+Trisha_Yearwood: 1
+Vampire_Weekend: 2
+Webb_Pierce: 1
+White_Lion: 1
+Wilco: 3
+Zero_7: 1
+
+Statistics for an_electric_guitar_solo
+Size for the fold: 28 songs
+Number of artists: 24
+Number of songs: 28
+Number of songs per artist:
+Alabama: 1
+Booker_T__The_MGs: 2
+Buddy_Guy: 1
+Buffalo_Springfield: 2
+Chet_Atkins__Les_Paul: 1
+Creedence_Clearwater_Revival: 2
+Darryl_Worley: 1
+Eagles: 1
+Earl_Hooker: 1
+Johnny_Winter: 1
+Joss_Stone: 2
+Led_Zeppelin: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 1
+Nirvana: 1
+Portishead: 1
+Red_Hot_Chili_Peppers: 1
+REM: 1
+Shudder_To_Think: 1
+The_Breeders: 1
+The_Derailers: 1
+The_Doors: 1
+Trisha_Yearwood: 1
+Yellowcard: 1
+
+Statistics for classic_soul_qualities
+Size for the fold: 30 songs
+Number of artists: 24
+Number of songs: 30
+Number of songs per artist:
+Average_White_Band: 1
+Barbara_Acklin: 1
+Betty_Everett: 1
+Billy_Preston: 1
+Booker_T__The_MGs: 1
+Chris_Kenner: 1
+Clarence_Frogman_Henry: 1
+Fats_Domino: 1
+Jackie_Wilson: 1
+Martha__The_Vandellas: 2
+Mel_Carter: 1
+Otis_Redding: 1
+Sam_Cooke: 1
+Sam__Dave: 2
+Smokey_Robinson__The_Miracles: 4
+Solomon_Burke: 1
+THE_AD_LIBS: 1
+The_Delfonics: 2
+The_Edwin_Hawkins_Singers: 1
+The_Elegants: 1
+Thelma_Houston: 1
+The_Manhattans: 1
+The_Shirelles: 1
+War: 1
+
+Statistics for dance
+Size for the fold: 96 songs
+Number of artists: 80
+Number of songs: 96
+Number of songs per artist:
+American_Hi-Fi: 1
+Arctic_Monkeys: 1
+Ashlee_Simpson: 2
+Average_White_Band: 1
+Backstreet_Boys: 1
+Beastie_Boys: 1
+Beck: 2
+Bert_Kaempfert: 1
+Billy_Preston: 1
+Bloc_Party: 1
+Captain_Hollywood_Project: 1
+Chris_Kenner: 1
+Combichrist: 1
+Crystal_Castles: 1
+Cyndi_Lauper: 1
+Daft_Punk: 2
+Danny__The_Juniors: 1
+Dead_Or_Alive: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Diana_Ross: 1
+Dido: 2
+Divinyls: 1
+Eagles: 1
+Eric_Carmen: 1
+Evelyn_Champagne_King: 1
+Faith_No_More: 1
+FC_Kahuna: 1
+Franz_Ferdinand: 1
+Frou_Frou: 1
+George_Michael: 1
+Girl_Talk: 2
+Groove_Theory: 1
+Heatwave: 1
+Ini_Kamoze: 1
+Jordin_Sparks: 1
+Kelly_Clarkson: 3
+La_Bouche: 1
+Ladytron: 1
+Lee_Ann_Womack: 1
+Lindsay_Lohan: 1
+Lloyd: 1
+Mariah_Carey: 1
+Martha__The_Vandellas: 1
+Mcfadden__Whitehead: 1
+MGMT: 1
+Michael_Jackson: 3
+Miss_Kittin__The_Hacker: 1
+Modest_Mouse: 1
+Musical_Youth: 1
+Nirvana: 1
+Orgy: 1
+Parliament: 3
+Patty_Griffin: 1
+Paul_van_Dyk_Ft_Vega_4: 1
+Prince__The_Revolution: 1
+Rihanna: 2
+Sam__Dave: 2
+Shakira: 2
+Solomon_Burke: 1
+Sting: 1
+The_Animals: 1
+The_Doobie_Brothers: 1
+The_Fiery_Furnaces: 1
+The_Five_Stairsteps: 1
+The_Kills: 1
+The_Kingsmen: 1
+The_Lemonheads: 1
+Thelma_Houston: 1
+The_Offspring: 1
+The_Presets: 2
+The_Pussycat_Dolls: 2
+The_Weather_Girls: 1
+Thievery_Corporation: 1
+Tift_Merritt: 1
+Tom_Tom_Club: 1
+Toni_Braxton: 1
+Veracocha: 1
+War: 1
+White_Lion: 1
+Wild_Cherry: 1
+
+Statistics for disco
+Size for the fold: 31 songs
+Number of artists: 19
+Number of songs: 21
+Number of songs per artist:
+America: 1
+Daft_Punk: 1
+Dead_Or_Alive: 1
+Diana_Ross: 1
+Evelyn_Champagne_King: 1
+Heatwave: 1
+La_Bouche: 1
+Martha__The_Vandellas: 1
+Mcfadden__Whitehead: 1
+Michael_Jackson: 3
+Modest_Mouse: 1
+Parliament: 1
+Rihanna: 1
+Sam__Dave: 1
+Shalamar: 1
+The_Five_Stairsteps: 1
+Thelma_Houston: 1
+The_Weather_Girls: 1
+Wild_Cherry: 1
+
+Statistics for extensive_vamping
+Size for the fold: 131 songs
+Number of artists: 105
+Number of songs: 129
+Number of songs per artist:
+Alabama: 1
+Ashlee_Simpson: 1
+Average_White_Band: 1
+Backstreet_Boys: 1
+Bill_Haley__His_Comets: 1
+Billy_Preston: 1
+Blackstreet_feat_Dr_Dre: 1
+Black_Tide: 1
+Booker_T__The_MGs: 2
+Bouncing_Souls: 1
+Bright_Eyes: 1
+Buju_Banton: 1
+Chaka_Demus__Pliers: 1
+Chris_Kenner: 1
+Cocoa_Tea: 1
+Coldplay: 1
+Combichrist: 1
+Creedence_Clearwater_Revival: 3
+Cyndi_Lauper: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Diana_Ross: 1
+Dido: 1
+Divinyls: 1
+Eagles: 1
+Earl_Hooker: 1
+Etta_Baker: 1
+Evelyn_Champagne_King: 1
+Faith_No_More: 1
+Foo_Fighters: 3
+Frankie_Paul: 1
+Franz_Ferdinand: 1
+George_Jones: 1
+George_Michael: 1
+Gorillaz: 1
+Groove_Theory: 1
+Ini_Kamoze: 1
+Jackie_Wilson: 1
+James_McMurtry: 1
+Jason_Aldean: 1
+Jefferson_Starship: 1
+Jem: 1
+Jodeci: 1
+Johnny_Winter: 1
+Jonah33: 1
+Judas_Priest: 1
+Kathy_Mattea: 1
+Led_Zeppelin: 4
+Lee_Ann_Womack: 1
+Les_Claypool: 1
+Letoya: 1
+Lindsay_Lohan: 1
+Little_Anthony_and_The_Imperials: 1
+Lloyd: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 1
+Manchester_Orchestra: 2
+Marilyn_Manson: 1
+Martha__The_Vandellas: 1
+Mcfadden__Whitehead: 1
+MercyME: 1
+Mice_Parade: 1
+Michael_Jackson: 3
+Mississippi_John_Hurt: 1
+Modest_Mouse: 2
+Musical_Youth: 1
+Nirvana: 3
+Of_Montreal: 1
+Okkervil_River: 2
+Orgy: 1
+Otis_Redding: 1
+Parliament: 2
+Patty_Griffin: 2
+Portishead: 2
+Pretenders: 1
+Prince__The_Revolution: 1
+Rage_Against_The_Machine: 2
+Red_Hot_Chili_Peppers: 1
+REM: 1
+Rihanna: 1
+Ritchie_Valens: 1
+Sam__Dave: 1
+Shalamar: 1
+Sizzla: 1
+Sons_And_Daughters: 1
+Stars: 1
+Steve_Earle: 1
+Sting: 1
+Tanto_Metro__Devonte: 1
+The_Animals: 1
+The_Beta_Band: 1
+The_Derailers: 1
+The_Doors: 3
+The_Felice_Brothers: 1
+The_Fiery_Furnaces: 1
+The_Kills: 3
+The_Kingsmen: 1
+The_Presets: 1
+The_Pussycat_Dolls: 1
+The_Troggs: 1
+Third_Day: 2
+Tilly_And_The_Wall: 1
+Tom_Tom_Club: 1
+Tyrese: 1
+Wild_Cherry: 1
+Zero_7: 1
+
+Statistics for funk
+Size for the fold: 56 songs
+Number of artists: 41
+Number of songs: 53
+Number of songs per artist:
+Average_White_Band: 1
+Barbara_Acklin: 1
+Beastie_Boys: 1
+Beck: 3
+Billy_Preston: 1
+Booker_T__The_MGs: 2
+Boozoo_Bajou: 1
+Buju_Banton: 1
+Chris_Kenner: 1
+Daft_Punk: 2
+Diana_Ross: 1
+Evelyn_Champagne_King: 1
+Faith_No_More: 1
+FC_Kahuna: 1
+George_Michael: 2
+Girl_Talk: 1
+Gorillaz: 1
+Groove_Theory: 1
+Heatwave: 1
+Jamie_Lidell: 1
+Joss_Stone: 2
+Les_Claypool: 1
+Martha__The_Vandellas: 1
+Mcfadden__Whitehead: 1
+Michael_Jackson: 3
+Parliament: 3
+Prince__The_Revolution: 1
+Rage_Against_The_Machine: 2
+Red_Hot_Chili_Peppers: 1
+Sam__Dave: 2
+Shalamar: 1
+Smokey_Robinson__The_Miracles: 1
+The_Delfonics: 1
+The_Edwin_Hawkins_Singers: 1
+The_Five_Stairsteps: 1
+Thelma_Houston: 1
+The_Weather_Girls: 1
+Thievery_Corporation: 1
+Tom_Tom_Club: 1
+War: 1
+Wild_Cherry: 1
+
+Statistics for groove_based_composition
+Size for the fold: 39 songs
+Number of artists: 33
+Number of songs: 36
+Number of songs per artist:
+Average_White_Band: 1
+Backstreet_Boys: 1
+Buffalo_Springfield: 1
+Carl_Smith: 1
+Carpenters: 1
+Danny__The_Juniors: 1
+Dead_Or_Alive: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Diana_Ross: 1
+Faith_No_More: 1
+Heatwave: 1
+Ini_Kamoze: 1
+Jem: 1
+Led_Zeppelin: 1
+Les_Claypool: 1
+Lindsay_Lohan: 1
+Mcfadden__Whitehead: 1
+Michael_Jackson: 2
+Parliament: 3
+Patty_Griffin: 1
+Rage_Against_The_Machine: 1
+Red_Hot_Chili_Peppers: 1
+Shalamar: 1
+Smokey_Robinson__The_Miracles: 1
+Tanto_Metro__Devonte: 1
+The_Beta_Band: 1
+The_Kills: 1
+Thelma_Houston: 1
+The_Pussycat_Dolls: 1
+The_Weather_Girls: 1
+Tom_Tom_Club: 1
+Wild_Cherry: 1
+Xavier_Rudd: 1
+
+Statistics for heavy_use_of_vocal_harmonies
+Size for the fold: 26 songs
+Number of artists: 24
+Number of songs: 26
+Number of songs per artist:
+Blackstreet_feat_Dr_Dre: 1
+Black_Tide: 1
+Chaka_Demus__Pliers: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Eagles: 1
+Frankie_Paul: 1
+Gillian_Welch: 1
+Gold_City: 1
+James_Taylor: 1
+Jodeci: 1
+Johnny_Lee: 1
+Musical_Youth: 1
+Parliament: 2
+Robin_Thicke: 1
+Shalamar: 1
+The_Cranberries: 1
+The_Fortunes: 1
+The_Kills: 2
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+The_Pussycat_Dolls: 1
+The_Shangri-Las: 1
+Third_Day: 1
+Tom_Tom_Club: 1
+White_Lion: 1
+
+Statistics for intricate_melodic_phrasing
+Size for the fold: 45 songs
+Number of artists: 42
+Number of songs: 45
+Number of songs per artist:
+Alan_Jackson: 1
+Booker_T__The_MGs: 1
+Boots_Randolph: 1
+Carl_Smith: 1
+Carly_Simon: 1
+Carpenters: 1
+Dido: 1
+Doyle_Dykes: 1
+Eagles: 1
+Foo_Fighters: 1
+Fugees: 1
+George_Jones: 1
+Gillian_Welch: 1
+Heatwave: 1
+Jem: 1
+Jonah33: 1
+Josh_Turner: 1
+Joss_Stone: 2
+Kathy_Mattea: 1
+Keith_Whitley: 1
+Lauryn_Hill: 1
+Lee_Ann_Womack: 1
+Lefty_Frizzell: 1
+Little_Anthony_and_The_Imperials: 1
+Mariah_Carey: 1
+Mark_Schultz: 1
+Okkervil_River: 2
+Patty_Griffin: 1
+Phil_Collins: 1
+Phil_Vassar: 1
+PM_Dawn: 1
+Pretenders: 1
+Prince__The_Revolution: 1
+Ritchie_Valens: 1
+Secret_Garden: 1
+Smokey_Robinson__The_Miracles: 2
+Stars: 1
+THE_AD_LIBS: 1
+The_Grascals: 1
+The_Shangri-Las: 1
+Third_Day: 1
+Vampire_Weekend: 1
+
+Statistics for minor_key_tonality
+Size for the fold: 97 songs
+Number of artists: 72
+Number of songs: 88
+Number of songs per artist:
+3_Doors_Down: 2
+Ashlee_Simpson: 2
+Average_White_Band: 1
+Bert_Jansch: 1
+Blackstreet_feat_Dr_Dre: 1
+Black_Tide: 1
+Bloc_Party: 1
+Bright_Eyes: 1
+Buddy_Guy: 1
+Buju_Banton: 1
+Cinderella: 1
+Combichrist: 1
+Cyndi_Lauper: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Diana_Ross: 1
+Dido: 1
+Faith_No_More: 1
+Foo_Fighters: 1
+Foreigner: 1
+Franz_Ferdinand: 1
+Fugees: 1
+Gorillaz: 1
+Groove_Theory: 1
+Heatwave: 1
+Jodeci: 1
+Johnny_Lee: 1
+Judas_Priest: 1
+Kelly_Clarkson: 2
+Led_Zeppelin: 2
+Les_Claypool: 1
+Letoya: 1
+Lindsay_Lohan: 1
+Lloyd: 1
+Manchester_Orchestra: 1
+Manu_Chao: 1
+Mariah_Carey: 1
+Marilyn_Manson: 1
+MGMT: 1
+Mice_Parade: 1
+Michael_Hedges: 1
+Michael_Jackson: 2
+Modest_Mouse: 2
+Nirvana: 4
+Of_Montreal: 1
+Orgy: 1
+Parliament: 1
+Patty_Griffin: 2
+Phil_Collins: 1
+Portishead: 2
+Rage_Against_The_Machine: 2
+Red_Hot_Chili_Peppers: 1
+REM: 1
+Rihanna: 1
+Robin_Thicke: 1
+Shalamar: 1
+Son_House: 1
+Sons_And_Daughters: 1
+Sting: 1
+Stray_Cats: 1
+Tanto_Metro__Devonte: 1
+The_Beta_Band: 1
+The_Doors: 2
+The_Kills: 4
+The_Living_End: 1
+The_Manhattans: 1
+The_Offspring: 1
+Theory_Of_A_Deadman: 1
+The_Presets: 1
+The_Pussycat_Dolls: 1
+The_Weather_Girls: 1
+Toni_Braxton: 1
+Tyrese: 1
+
+Statistics for mixed_acoustic_and_electric_instrumentation
+Size for the fold: 99 songs
+Number of artists: 91
+Number of songs: 112
+Number of songs per artist:
+3_Doors_Down: 3
+Alan_Jackson: 1
+Ashlee_Simpson: 1
+Average_White_Band: 1
+Beck: 1
+Ben_Harper: 1
+Bill_Haley__His_Comets: 1
+Billie_Myers: 1
+Bright_Eyes: 1
+Carl_Smith: 1
+Carly_Simon: 1
+Carpenters: 1
+Chet_Atkins__Les_Paul: 1
+Chris_Kenner: 1
+Chris_Tomlin: 1
+Coldplay: 1
+Collective_Soul: 1
+Creedence_Clearwater_Revival: 2
+Darryl_Worley: 1
+Dar_Williams: 1
+Death_Cab_for_Cutie: 1
+Diana_Ross: 1
+Eagles: 3
+Earl_Hooker: 1
+Fats_Domino: 1
+Frankie_Paul: 1
+Fugees: 1
+Gold_City: 1
+Heatwave: 1
+Jackie_Wilson: 1
+James_McMurtry: 2
+Jamie_ONeal: 1
+Jason_Aldean: 1
+Jefferson_Starship: 1
+Jem: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+Johnny_Lee: 1
+Johnny_Winter: 1
+Jonah33: 1
+Josh_Turner: 1
+Joss_Stone: 3
+Lee_Ann_Womack: 1
+Les_Claypool: 1
+Lindsay_Lohan: 1
+Lucinda_Williams: 2
+Manchester_Orchestra: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Mark_Schultz: 1
+Matt_Nathanson: 1
+Mcfadden__Whitehead: 1
+Melissa_Manchester: 1
+MercyME: 1
+Michael_Jackson: 1
+Mike_Doughty: 2
+Mitch_Ryder__The_Detroit_Wheels: 1
+Modest_Mouse: 3
+Muddy_Waters: 1
+Okkervil_River: 3
+Parliament: 2
+REM: 1
+Sam__Dave: 2
+Shakira: 1
+Shalamar: 1
+Sons_And_Daughters: 1
+Steve_Earle: 1
+Stray_Cats: 1
+Switchfoot: 1
+Taylor_Swift: 1
+The_Beta_Band: 1
+The_Delfonics: 1
+The_Derailers: 1
+The_Doobie_Brothers: 1
+The_Doors: 1
+The_Felice_Brothers: 2
+The_Fortunes: 1
+The_Kills: 4
+Thelma_Houston: 1
+The_Manhattans: 1
+The_Shangri-Las: 1
+The_Shirelles: 1
+The_Troggs: 1
+Third_Day: 2
+Tilly_And_The_Wall: 1
+Toby_Keith: 1
+Vampire_Weekend: 1
+War: 1
+Webb_Pierce: 1
+Wilco: 1
+Wild_Cherry: 1
+Yellowcard: 1
+Zero_7: 1
+
+Statistics for paired_vocal_harmony
+Size for the fold: 39 songs
+Number of artists: 34
+Number of songs: 39
+Number of songs per artist:
+American_Hi-Fi: 1
+Blackstreet_feat_Dr_Dre: 1
+Black_Tide: 1
+Chaka_Demus__Pliers: 1
+Cheap_Trick: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Eagles: 1
+Frankie_Paul: 1
+Gillian_Welch: 1
+Gold_City: 1
+Gorillaz: 1
+James_Taylor: 2
+Jodeci: 1
+Johnny_Lee: 1
+Liz_Story: 1
+Musical_Youth: 1
+Parliament: 3
+Rihanna: 1
+Robin_Thicke: 1
+Sam__Dave: 2
+Shalamar: 1
+Simon__Garfunkel: 1
+Stars: 1
+The_Cranberries: 1
+The_Fiery_Furnaces: 1
+The_Fortunes: 1
+The_Kills: 2
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+The_Pussycat_Dolls: 1
+The_Shangri-Las: 1
+The_Weather_Girls: 1
+Third_Day: 1
+Tom_Tom_Club: 1
+White_Lion: 1
+
+Statistics for pop
+Size for the fold: 217 songs
+Number of artists: 158
+Number of songs: 219
+Number of songs per artist:
+3_Doors_Down: 1
+Alison_Krauss__Union_Station: 1
+America: 2
+American_Hi-Fi: 1
+Arctic_Monkeys: 1
+Ashlee_Simpson: 2
+Average_White_Band: 1
+Backstreet_Boys: 1
+Beastie_Boys: 1
+Beck: 3
+Beirut: 1
+Ben_Harper: 1
+Ben_Kweller: 1
+Bert_Kaempfert: 1
+Betty_Everett: 1
+Billie_Myers: 1
+Blackstreet_feat_Dr_Dre: 1
+Bloc_Party: 1
+Bobby_Vee: 1
+Boots_Randolph: 1
+Bright_Eyes: 1
+Buffalo_Springfield: 2
+Captain_Hollywood_Project: 1
+Carly_Simon: 1
+Carpenters: 3
+Chaka_Demus__Pliers: 1
+Cheap_Trick: 2
+Chris_Kenner: 1
+Cinderella: 1
+Clarence_Frogman_Henry: 1
+Colbie_Caillat: 1
+Coldplay: 3
+Collective_Soul: 1
+Creedence_Clearwater_Revival: 3
+Crystal_Castles: 1
+Cyndi_Lauper: 1
+Daft_Punk: 2
+Danny__The_Juniors: 1
+Darryl_Worley: 1
+Dead_Or_Alive: 1
+Death_Cab_for_Cutie: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Diana_Ross: 1
+Dido: 4
+Divinyls: 1
+Eagles: 2
+Eric_Carmen: 1
+Evelyn_Champagne_King: 1
+Fats_Domino: 2
+Foo_Fighters: 3
+Foreigner: 1
+Franz_Ferdinand: 1
+Frou_Frou: 1
+Fugees: 1
+George_Michael: 2
+Girl_Talk: 2
+Gorillaz: 1
+Groove_Theory: 1
+Hank_Williams: 1
+Heatwave: 1
+Ini_Kamoze: 1
+Jackie_Wilson: 1
+Jack_Johnson: 7
+James_Taylor: 3
+Jamie_Lidell: 1
+Jay__The_Americans: 2
+Jem: 1
+Jenny_Lewis_with_The_Watson_Twins: 2
+Jordin_Sparks: 1
+Joss_Stone: 3
+Kelly_Clarkson: 3
+La_Bouche: 1
+Ladytron: 1
+Lauryn_Hill: 2
+Led_Zeppelin: 2
+Lee_Ann_Womack: 1
+Letoya: 1
+Lindsay_Lohan: 2
+Little_Anthony_and_The_Imperials: 1
+Liz_Story: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 1
+Manu_Chao: 1
+Mariah_Carey: 2
+Martha__The_Vandellas: 2
+Matt_Nathanson: 1
+Mcfadden__Whitehead: 1
+Mel_Carter: 1
+Melissa_Manchester: 1
+MGMT: 1
+Mice_Parade: 1
+Michael_Jackson: 3
+Mitch_Ryder__The_Detroit_Wheels: 1
+Modest_Mouse: 2
+Musical_Youth: 1
+Nirvana: 2
+No_Doubt: 1
+Of_Montreal: 1
+Orgy: 1
+Parliament: 3
+Patty_Griffin: 2
+Paul_van_Dyk_Ft_Vega_4: 1
+Phil_Collins: 2
+PM_Dawn: 1
+Portishead: 2
+Pretenders: 1
+Prince__The_Revolution: 1
+REM: 1
+Rihanna: 2
+Ritchie_Valens: 1
+Robin_Thicke: 1
+Sam_Cooke: 1
+Sam__Dave: 1
+Shakira: 2
+Shalamar: 1
+Simon__Garfunkel: 1
+Smokey_Robinson__The_Miracles: 4
+Stars: 2
+Sting: 1
+Switchfoot: 1
+THE_AD_LIBS: 1
+The_Animals: 2
+The_Breeders: 1
+The_Cranberries: 1
+The_Delfonics: 2
+The_Doobie_Brothers: 1
+The_Doors: 1
+The_Edwin_Hawkins_Singers: 1
+The_Elegants: 1
+The_Five_Stairsteps: 1
+The_Fortunes: 1
+The_Kills: 2
+The_Kingsmen: 1
+The_Lemonheads: 1
+The_Living_End: 1
+Thelma_Houston: 1
+The_Manhattans: 1
+The_Offspring: 1
+The_Penguins: 1
+The_Presets: 1
+The_Pussycat_Dolls: 2
+The_Shangri-Las: 1
+The_Shirelles: 1
+The_Troggs: 1
+The_Weather_Girls: 1
+Tilly_And_The_Wall: 1
+Toby_Keith: 1
+Tom_Tom_Club: 1
+Toni_Braxton: 1
+Tracy_Chapman: 1
+Vampire_Weekend: 2
+Veracocha: 1
+War: 1
+White_Lion: 1
+Wilco: 1
+Wild_Cherry: 1
+Xavier_Rudd: 1
+Yellowcard: 1
+
+Statistics for electric_guitar_riffs
+Size for the fold: 59 songs
+Number of artists: 56
+Number of songs: 66
+Number of songs per artist:
+Alabama: 1
+American_Hi-Fi: 1
+Beck: 1
+Bill_Haley__His_Comets: 1
+Billie_Myers: 1
+Buddy_Guy: 1
+Buffalo_Springfield: 1
+Cheap_Trick: 1
+Chet_Atkins__Les_Paul: 1
+Cocoa_Tea: 1
+Creedence_Clearwater_Revival: 2
+Cyndi_Lauper: 1
+Diana_Ross: 1
+Divinyls: 1
+Eagles: 1
+Earl_Hooker: 1
+Evelyn_Champagne_King: 1
+Foo_Fighters: 2
+Frankie_Paul: 1
+George_Jones: 1
+Heatwave: 1
+Jackie_Wilson: 1
+Jefferson_Starship: 1
+Johnny_Lee: 1
+Johnny_Winter: 1
+Kelly_Clarkson: 2
+Led_Zeppelin: 3
+Les_Claypool: 1
+Lindsay_Lohan: 1
+Manu_Chao: 1
+Michael_Jackson: 1
+Modest_Mouse: 1
+Nirvana: 3
+Otis_Redding: 1
+Parliament: 2
+Patty_Griffin: 1
+Phil_Collins: 1
+Phil_Vassar: 1
+Portishead: 1
+Pretenders: 1
+Red_Hot_Chili_Peppers: 1
+REM: 1
+Shalamar: 1
+Sons_And_Daughters: 1
+Steve_Earle: 1
+The_Animals: 1
+The_Doors: 2
+The_Fiery_Furnaces: 1
+The_Kills: 2
+The_Pussycat_Dolls: 1
+The_Shirelles: 1
+The_Troggs: 1
+Third_Day: 1
+Vampire_Weekend: 1
+Wild_Cherry: 1
+Yellowcard: 1
+
+Statistics for oldies
+Size for the fold: 104 songs
+Number of artists: 81
+Number of songs: 104
+Number of songs per artist:
+Alison_Krauss__Union_Station: 1
+America: 2
+Backstreet_Boys: 1
+Barbara_Acklin: 1
+Bert_Kaempfert: 1
+Betty_Everett: 1
+Bill_Haley__His_Comets: 1
+Billy_Preston: 1
+Bobby_Vee: 1
+Booker_T__The_MGs: 1
+Boots_Randolph: 1
+Buffalo_Springfield: 1
+Carl_Smith: 1
+Carly_Simon: 1
+Carpenters: 4
+Cheap_Trick: 1
+Chris_Kenner: 1
+Cinderella: 1
+Clarence_Frogman_Henry: 1
+Creedence_Clearwater_Revival: 4
+Danny__The_Juniors: 2
+Diana_Ross: 1
+Divinyls: 1
+Eagles: 2
+Eric_Carmen: 1
+Evelyn_Champagne_King: 1
+Faith_No_More: 1
+Fats_Domino: 2
+Foreigner: 1
+George_Jones: 1
+George_Michael: 1
+Hank_Williams: 1
+Jackie_Wilson: 1
+James_Taylor: 3
+Jay__The_Americans: 2
+Jefferson_Starship: 1
+Johnny_Otis: 1
+Keith_Whitley: 1
+Lefty_Frizzell: 1
+Little_Anthony_and_The_Imperials: 1
+Martha__The_Vandellas: 2
+Mcfadden__Whitehead: 1
+Mel_Carter: 1
+Melissa_Manchester: 1
+Michael_Jackson: 3
+Otis_Redding: 1
+Pretenders: 1
+Richard_Thompson: 2
+Ritchie_Valens: 1
+Robert_Johnson: 1
+Sam_Cooke: 1
+Sam__Dave: 2
+Simon__Garfunkel: 1
+Smokey_Robinson__The_Miracles: 4
+Solomon_Burke: 1
+Son_House: 1
+Stray_Cats: 1
+THE_AD_LIBS: 1
+The_Animals: 2
+The_Cranberries: 1
+The_Delfonics: 2
+The_Doobie_Brothers: 1
+The_Doors: 1
+The_Edwin_Hawkins_Singers: 1
+The_Elegants: 1
+The_Five_Stairsteps: 1
+The_Fortunes: 1
+The_Kingsmen: 1
+The_Lemonheads: 1
+Thelma_Houston: 1
+The_Manhattans: 1
+The_Penguins: 1
+The_Pussycat_Dolls: 1
+The_Shangri-Las: 1
+The_Shirelles: 1
+The_Troggs: 1
+The_Weather_Girls: 1
+War: 1
+Webb_Pierce: 1
+White_Lion: 1
+Wild_Cherry: 1
+
+Statistics for rb
+Size for the fold: 64 songs
+Number of artists: 49
+Number of songs: 65
+Number of songs per artist:
+Average_White_Band: 1
+Barbara_Acklin: 1
+Betty_Everett: 1
+Billy_Preston: 1
+Blackstreet_feat_Dr_Dre: 1
+Booker_T__The_MGs: 2
+Chris_Kenner: 1
+Clarence_Frogman_Henry: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Diana_Ross: 1
+Fats_Domino: 1
+Fugees: 1
+Girl_Talk: 1
+Gold_City: 1
+Groove_Theory: 1
+Heatwave: 1
+Jackie_Wilson: 1
+Jodeci: 1
+Johnny_Otis: 1
+Jordin_Sparks: 1
+Joss_Stone: 3
+Lauryn_Hill: 2
+Letoya: 1
+Lloyd: 1
+Mariah_Carey: 2
+Martha__The_Vandellas: 2
+Mcfadden__Whitehead: 1
+Michael_Jackson: 3
+Otis_Redding: 1
+Parliament: 3
+Prince__The_Revolution: 1
+Rihanna: 2
+Ritchie_Valens: 1
+Robin_Thicke: 1
+Sam_Cooke: 1
+Sam__Dave: 2
+Shalamar: 1
+Smokey_Robinson__The_Miracles: 4
+The_Delfonics: 2
+The_Edwin_Hawkins_Singers: 1
+The_Five_Stairsteps: 1
+The_Manhattans: 1
+The_Penguins: 1
+The_Pussycat_Dolls: 1
+The_Shirelles: 1
+Toni_Braxton: 1
+Tyrese: 1
+War: 1
+Wild_Cherry: 1
+
+Statistics for basic_rock_song_structures
+Size for the fold: 44 songs
+Number of artists: 45
+Number of songs: 59
+Number of songs per artist:
+3_Doors_Down: 2
+Beck: 1
+Ben_Harper: 1
+Billie_Myers: 1
+Bright_Eyes: 1
+Chris_Tomlin: 1
+Coldplay: 1
+Creedence_Clearwater_Revival: 2
+Datarock: 1
+Death_Cab_for_Cutie: 1
+Dido: 1
+Eagles: 2
+Franz_Ferdinand: 1
+Frou_Frou: 1
+Gorillaz: 1
+James_McMurtry: 2
+Jefferson_Starship: 1
+Jem: 1
+Johnny_Winter: 1
+Jonah33: 1
+Led_Zeppelin: 1
+Lucinda_Williams: 2
+Matt_Nathanson: 1
+Mike_Doughty: 2
+Mitch_Ryder__The_Detroit_Wheels: 1
+Modest_Mouse: 3
+Okkervil_River: 1
+Parliament: 1
+Shakira: 1
+Stars: 1
+Stray_Cats: 1
+Switchfoot: 1
+Taylor_Swift: 1
+The_Beta_Band: 1
+The_Doobie_Brothers: 1
+The_Felice_Brothers: 2
+The_Fiery_Furnaces: 1
+The_Fortunes: 1
+The_Kills: 4
+The_Shangri-Las: 1
+The_Troggs: 1
+Third_Day: 1
+Tilly_And_The_Wall: 1
+Wilco: 3
+Zero_7: 1
+
+Statistics for electronica_influences
+Size for the fold: 35 songs
+Number of artists: 31
+Number of songs: 33
+Number of songs per artist:
+Ashlee_Simpson: 1
+Backstreet_Boys: 1
+Beck: 1
+Bright_Eyes: 1
+Captain_Hollywood_Project: 1
+Combichrist: 1
+Crystal_Castles: 1
+Datarock: 1
+Dead_Or_Alive: 1
+Dido: 1
+Frou_Frou: 1
+Gorillaz: 1
+Groove_Theory: 1
+Jem: 1
+Jordin_Sparks: 1
+Led_Zeppelin: 1
+Lindsay_Lohan: 1
+Lloyd: 1
+Marilyn_Manson: 1
+Of_Montreal: 1
+Orgy: 1
+PM_Dawn: 1
+Rihanna: 1
+Stars: 1
+The_Beta_Band: 1
+The_Fiery_Furnaces: 1
+The_Presets: 2
+The_Pussycat_Dolls: 1
+The_Weather_Girls: 1
+Third_Day: 2
+Tom_Tom_Club: 1
+
+Statistics for mild_rhythmic_syncopation
+Size for the fold: 98 songs
+Number of artists: 87
+Number of songs: 107
+Number of songs per artist:
+3_Doors_Down: 1
+Alabama: 1
+Alison_Krauss__Union_Station: 2
+Arctic_Monkeys: 1
+Ben_Kweller: 1
+Bert_Jansch: 1
+Betty_Everett: 1
+Bobby_Vee: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Boots_Randolph: 1
+Bright_Eyes: 1
+Buju_Banton: 1
+Carpenters: 1
+Cheap_Trick: 1
+Chet_Atkins__Les_Paul: 1
+Clarence_Frogman_Henry: 1
+Coldplay: 1
+Creedence_Clearwater_Revival: 2
+Dar_Williams: 1
+Datarock: 1
+Dead_Or_Alive: 1
+Death_Cab_for_Cutie: 1
+Dido: 2
+Fats_Domino: 1
+Foo_Fighters: 2
+George_Jones: 1
+George_Michael: 1
+Gold_City: 1
+Gorillaz: 1
+Ini_Kamoze: 1
+Jackie_Wilson: 1
+Jack_Johnson: 3
+Jamie_ONeal: 1
+Jason_Aldean: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+Josh_Turner: 1
+Joss_Stone: 2
+Judas_Priest: 1
+Kelly_Clarkson: 2
+Led_Zeppelin: 2
+Lefty_Frizzell: 1
+Lindsay_Lohan: 1
+Liz_Story: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Mark_Schultz: 1
+Martha__The_Vandellas: 1
+Mcfadden__Whitehead: 1
+Mel_Carter: 1
+Mice_Parade: 1
+Michael_Hedges: 1
+Mike_Doughty: 1
+Mississippi_John_Hurt: 2
+Mitch_Ryder__The_Detroit_Wheels: 1
+Modest_Mouse: 1
+Nirvana: 1
+Nitty_Gritty_Dirt_Band: 1
+No_Doubt: 1
+Okkervil_River: 1
+Otis_Redding: 1
+PM_Dawn: 1
+Richard_Thompson: 1
+Rihanna: 1
+Robin_Thicke: 1
+Ryan_Adams: 1
+Smokey_Robinson__The_Miracles: 2
+Solomon_Burke: 1
+Son_House: 1
+Stars: 2
+Stray_Cats: 1
+The_Breeders: 1
+The_Cranberries: 1
+The_Delfonics: 2
+The_Doors: 2
+The_Edwin_Hawkins_Singers: 1
+The_Five_Stairsteps: 1
+The_Grascals: 2
+The_Kills: 5
+The_Lemonheads: 1
+Theory_Of_A_Deadman: 1
+The_Shangri-Las: 1
+The_Troggs: 1
+Third_Day: 2
+Tift_Merritt: 1
+Tilly_And_The_Wall: 1
+Tom_Tom_Club: 1
+Tyrese: 1
+Vampire_Weekend: 1
+
+Statistics for repetitive_melodic_phrasing
+Size for the fold: 101 songs
+Number of artists: 84
+Number of songs: 111
+Number of songs per artist:
+America: 1
+Ashlee_Simpson: 1
+Backstreet_Boys: 1
+Beck: 2
+Bert_Jansch: 1
+Bill_Haley__His_Comets: 1
+Black_Tide: 1
+Booker_T__The_MGs: 1
+Buffalo_Springfield: 1
+Buju_Banton: 1
+Cheap_Trick: 1
+Cinderella: 2
+Collective_Soul: 1
+Combichrist: 1
+Creedence_Clearwater_Revival: 4
+Danny__The_Juniors: 1
+Darryl_Worley: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Diana_Ross: 1
+Dido: 1
+Divinyls: 1
+Eagles: 2
+Earl_Hooker: 1
+Faith_No_More: 1
+Foo_Fighters: 2
+Frankie_Paul: 1
+George_Michael: 1
+Gorillaz: 1
+Heatwave: 1
+Jackie_Wilson: 1
+James_McMurtry: 2
+Jem: 1
+Joe_Bonamassa: 1
+Johnny_Lee: 1
+Johnny_Winter: 1
+Josh_Turner: 1
+Joss_Stone: 2
+Judas_Priest: 1
+Kelly_Clarkson: 1
+Led_Zeppelin: 1
+Les_Claypool: 1
+Lindsay_Lohan: 1
+Little_Anthony_and_The_Imperials: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 1
+Lyle_Lovett: 1
+Mariah_Carey: 1
+Marilyn_Manson: 1
+Mcfadden__Whitehead: 1
+Mel_Carter: 1
+Michael_Jackson: 3
+Mike_Doughty: 2
+Musical_Youth: 1
+Nirvana: 5
+Of_Montreal: 1
+Orgy: 1
+Otis_Redding: 1
+Parliament: 2
+Phil_Collins: 1
+Portishead: 1
+Rage_Against_The_Machine: 2
+REM: 1
+Simon__Garfunkel: 1
+Sons_And_Daughters: 1
+Spiritualized: 1
+Switchfoot: 1
+Tanto_Metro__Devonte: 1
+The_Animals: 1
+The_Beta_Band: 1
+The_Derailers: 1
+The_Doors: 3
+The_Elegants: 1
+The_Felice_Brothers: 2
+The_Fiery_Furnaces: 1
+The_Grascals: 3
+The_Kills: 5
+The_Presets: 1
+The_Pussycat_Dolls: 1
+The_Troggs: 1
+Tom_Tom_Club: 1
+White_Lion: 1
+Wild_Cherry: 1
+Xavier_Rudd: 1
+Yellowcard: 1
+
+Statistics for electro
+Size for the fold: 20 songs
+Number of artists: 16
+Number of songs: 20
+Number of songs per artist:
+Beck: 1
+Bloc_Party: 1
+Combichrist: 1
+Crystal_Castles: 1
+Daft_Punk: 2
+Frou_Frou: 1
+Gorillaz: 1
+Ladytron: 1
+MGMT: 1
+Mice_Parade: 1
+Miss_Kittin__The_Hacker: 1
+Orgy: 1
+Paul_van_Dyk_Ft_Vega_4: 1
+Portishead: 3
+The_Presets: 2
+Veracocha: 1
+
+Statistics for festival
+Size for the fold: 91 songs
+Number of artists: 53
+Number of songs: 87
+Number of songs per artist:
+3_Doors_Down: 3
+Beck: 1
+Beirut: 1
+Ben_Kweller: 1
+Black_Tide: 1
+Bouncing_Souls: 1
+Datarock: 1
+Death_Cab_for_Cutie: 1
+George_Jones: 1
+Gillian_Welch: 1
+Girl_Talk: 2
+Jack_Johnson: 3
+Jamie_Lidell: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+Joe_Bonamassa: 1
+Josh_Turner: 3
+Joss_Stone: 3
+Kathy_Mattea: 1
+Les_Claypool: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 2
+Manchester_Orchestra: 2
+Manu_Chao: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Matt_Nathanson: 1
+MGMT: 1
+Mike_Doughty: 2
+Modest_Mouse: 1
+Okkervil_River: 4
+Patty_Griffin: 7
+Portishead: 2
+Rage_Against_The_Machine: 1
+REM: 1
+Richard_Thompson: 3
+Shelby_Lynne: 1
+Shudder_To_Think: 1
+Solomon_Burke: 1
+Sons_And_Daughters: 1
+Spiritualized: 1
+Taylor_Swift: 1
+The_Breeders: 1
+The_Felice_Brothers: 3
+The_Fiery_Furnaces: 1
+The_Kills: 6
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+Theory_Of_A_Deadman: 1
+The_Presets: 2
+Tift_Merritt: 1
+Tilly_And_The_Wall: 1
+Trisha_Yearwood: 1
+Vampire_Weekend: 2
+Wilco: 2
+Xavier_Rudd: 1
+
+Statistics for prevalent_use_of_groove
+Size for the fold: 8 songs
+Number of artists: 6
+Number of songs: 6
+Number of songs per artist:
+Boozoo_Bajou: 1
+FC_Kahuna: 1
+La_Bouche: 1
+Miss_Kittin__The_Hacker: 1
+Paul_van_Dyk_Ft_Vega_4: 1
+The_Presets: 1
+
+Statistics for disco_influences
+Size for the fold: 14 songs
+Number of artists: 12
+Number of songs: 13
+Number of songs per artist:
+Backstreet_Boys: 1
+Captain_Hollywood_Project: 1
+Evelyn_Champagne_King: 1
+Heatwave: 1
+La_Bouche: 1
+Michael_Jackson: 2
+Parliament: 1
+Shalamar: 1
+The_Living_End: 1
+The_Weather_Girls: 1
+Veracocha: 1
+Wild_Cherry: 1
+
+Statistics for rock
+Size for the fold: 235 songs
+Number of artists: 155
+Number of songs: 240
+Number of songs per artist:
+3_Doors_Down: 3
+Alabama: 1
+America: 2
+American_Hi-Fi: 1
+Arctic_Monkeys: 1
+Ashlee_Simpson: 2
+Backstreet_Boys: 1
+Beastie_Boys: 1
+Beck: 3
+Beirut: 1
+Ben_Harper: 1
+Bill_Haley__His_Comets: 1
+Billie_Myers: 1
+Billy_Preston: 1
+Black_Tide: 1
+Bloc_Party: 1
+Bobby_Vee: 1
+Bouncing_Souls: 1
+Bright_Eyes: 1
+Buffalo_Springfield: 2
+Carly_Simon: 1
+Carpenters: 3
+Cheap_Trick: 2
+Chris_Kenner: 1
+Cinderella: 2
+Clarence_Frogman_Henry: 1
+Colbie_Caillat: 1
+Coldplay: 3
+Collective_Soul: 1
+Creedence_Clearwater_Revival: 4
+Cyndi_Lauper: 1
+Danny__The_Juniors: 2
+Dar_Williams: 2
+Death_Cab_for_Cutie: 1
+Dido: 4
+Divinyls: 1
+Eagles: 3
+Eric_Carmen: 1
+Faith_No_More: 1
+Fats_Domino: 2
+Foo_Fighters: 3
+Foreigner: 1
+Franz_Ferdinand: 1
+Frou_Frou: 1
+George_Michael: 2
+Gillian_Welch: 1
+Girl_Talk: 1
+Gorillaz: 1
+Jackie_Wilson: 1
+Jack_Johnson: 7
+James_McMurtry: 1
+James_Taylor: 3
+Jamie_Lidell: 1
+Jamie_ONeal: 1
+Jay__The_Americans: 2
+Jefferson_Starship: 1
+Jem: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+Joe_Bonamassa: 1
+Johnny_Otis: 1
+Johnny_Winter: 1
+Joss_Stone: 1
+Judas_Priest: 1
+Kelly_Clarkson: 3
+La_Bouche: 1
+Led_Zeppelin: 4
+Les_Claypool: 1
+Lindsay_Lohan: 2
+Little_Anthony_and_The_Imperials: 1
+Liz_Story: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 3
+Manchester_Orchestra: 2
+Manu_Chao: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Mariah_Carey: 1
+Marilyn_Manson: 1
+Martha__The_Vandellas: 2
+Matt_Nathanson: 1
+Mel_Carter: 1
+MercyME: 1
+MGMT: 1
+Michael_Hedges: 1
+Michael_Jackson: 3
+Mike_Doughty: 2
+Mitch_Ryder__The_Detroit_Wheels: 1
+Modest_Mouse: 3
+Muddy_Waters: 1
+Nirvana: 5
+No_Doubt: 1
+Of_Montreal: 1
+Okkervil_River: 4
+Orgy: 1
+Otis_Redding: 1
+Patty_Griffin: 4
+Phil_Collins: 2
+PM_Dawn: 1
+Portishead: 3
+Pretenders: 1
+Prince__The_Revolution: 1
+Rage_Against_The_Machine: 2
+Red_Hot_Chili_Peppers: 1
+REM: 1
+Richard_Thompson: 3
+Rihanna: 1
+Ritchie_Valens: 1
+Robin_Thicke: 1
+Ryan_Adams: 1
+Sam_Cooke: 1
+Sam__Dave: 1
+Shakira: 2
+Shelby_Lynne: 1
+Simon__Garfunkel: 1
+Smokey_Robinson__The_Miracles: 4
+Solomon_Burke: 1
+Sons_And_Daughters: 1
+Spiritualized: 1
+Stars: 2
+Steve_Earle: 1
+Sting: 1
+Stray_Cats: 1
+Switchfoot: 1
+THE_AD_LIBS: 1
+The_Animals: 2
+The_Beta_Band: 1
+The_Breeders: 1
+The_Cranberries: 1
+The_Doobie_Brothers: 1
+The_Doors: 3
+The_Edwin_Hawkins_Singers: 1
+The_Elegants: 1
+The_Fortunes: 1
+The_Kills: 6
+The_Kingsmen: 1
+The_Lemonheads: 1
+The_Living_End: 1
+The_Offspring: 1
+Theory_Of_A_Deadman: 1
+The_Penguins: 1
+The_Presets: 2
+The_Pussycat_Dolls: 1
+The_Shangri-Las: 1
+The_Troggs: 1
+The_Weather_Girls: 1
+Third_Day: 2
+Tift_Merritt: 1
+Tom_Tom_Club: 1
+Tracy_Chapman: 1
+Vampire_Weekend: 2
+War: 1
+White_Lion: 1
+Wilco: 3
+Wild_Cherry: 1
+Xavier_Rudd: 1
+Yellowcard: 1
+
+Statistics for a_clear_focus_on_recording_studio_production
+Size for the fold: 42 songs
+Number of artists: 40
+Number of songs: 46
+Number of songs per artist:
+3_Doors_Down: 1
+Billie_Myers: 1
+Bright_Eyes: 1
+Buffalo_Springfield: 1
+Buju_Banton: 1
+Carpenters: 4
+Cocoa_Tea: 1
+Coldplay: 1
+Collective_Soul: 1
+Dido: 1
+Eagles: 1
+Faith_No_More: 1
+George_Michael: 1
+Gold_City: 1
+Ini_Kamoze: 1
+Josh_Turner: 1
+Joss_Stone: 1
+Kelly_Clarkson: 1
+Lauryn_Hill: 1
+Led_Zeppelin: 1
+Lloyd: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Mariah_Carey: 1
+Mark_Schultz: 1
+Mcfadden__Whitehead: 1
+MercyME: 1
+Michael_Jackson: 3
+Modest_Mouse: 1
+Orgy: 1
+Parliament: 1
+Patty_Griffin: 1
+Portishead: 1
+Pretenders: 1
+Rihanna: 1
+Shakira: 1
+Shalamar: 1
+Sting: 1
+Tanto_Metro__Devonte: 1
+The_Doors: 1
+The_Pussycat_Dolls: 2
+
+Statistics for a_subtle_use_of_vocal_harmony
+Size for the fold: 167 songs
+Number of artists: 129
+Number of songs: 167
+Number of songs per artist:
+3_Doors_Down: 3
+Alan_Jackson: 1
+Alison_Krauss__Union_Station: 1
+America: 1
+Arctic_Monkeys: 1
+Ashlee_Simpson: 1
+Average_White_Band: 1
+Barbara_Acklin: 1
+Beck: 1
+Beirut: 1
+Ben_Harper: 1
+Ben_Kweller: 1
+Bert_Kaempfert: 1
+Billie_Myers: 1
+Bloc_Party: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Bouncing_Souls: 1
+Burl_Ives: 1
+Carly_Simon: 1
+Carpenters: 3
+Cheap_Trick: 1
+Chris_Kenner: 1
+Chris_Tomlin: 1
+Cinderella: 2
+Cocoa_Tea: 1
+Colbie_Caillat: 1
+Coldplay: 2
+Cyndi_Lauper: 1
+Danny__The_Juniors: 1
+Darryl_Worley: 1
+Dar_Williams: 2
+Datarock: 1
+Dead_Or_Alive: 1
+Death_Cab_for_Cutie: 1
+Dido: 4
+Divinyls: 1
+Eric_Carmen: 1
+Evelyn_Champagne_King: 1
+Faith_No_More: 1
+Foreigner: 1
+Franz_Ferdinand: 1
+Frou_Frou: 1
+Fugees: 1
+George_Michael: 1
+Groove_Theory: 1
+Ini_Kamoze: 1
+Jack_Johnson: 4
+James_McMurtry: 2
+Jamie_ONeal: 1
+Jason_Aldean: 1
+Jay__The_Americans: 1
+Jem: 1
+Jenny_Lewis_with_The_Watson_Twins: 2
+Johnny_Otis: 1
+Jonah33: 1
+Jordin_Sparks: 1
+Josh_Turner: 3
+Joss_Stone: 2
+Kathy_Mattea: 1
+Keith_Whitley: 1
+Kelly_Clarkson: 3
+Lauryn_Hill: 2
+Lee_Ann_Womack: 1
+Letoya: 1
+Lindsay_Lohan: 2
+Lloyd: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 1
+Lyle_Lovett: 1
+Manchester_Orchestra: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Mariah_Carey: 2
+Mark_Schultz: 1
+Martha__The_Vandellas: 2
+Matt_Nathanson: 1
+Melissa_Manchester: 1
+MercyME: 1
+MGMT: 1
+Michael_Jackson: 1
+Mike_Doughty: 2
+Mitch_Ryder__The_Detroit_Wheels: 1
+Modest_Mouse: 2
+Nirvana: 2
+Nitty_Gritty_Dirt_Band: 1
+No_Doubt: 1
+Of_Montreal: 1
+Okkervil_River: 2
+Orgy: 1
+Patty_Griffin: 2
+Phil_Collins: 2
+Phil_Vassar: 1
+Pretenders: 1
+Prince__The_Revolution: 1
+REM: 1
+Richard_Thompson: 1
+Ritchie_Valens: 1
+Ryan_Adams: 1
+Sam_Cooke: 1
+Sizzla: 1
+Smokey_Robinson__The_Miracles: 3
+Steve_Earle: 1
+Switchfoot: 1
+Taylor_Swift: 1
+The_Animals: 2
+The_Beta_Band: 1
+The_Delfonics: 2
+The_Derailers: 1
+The_Doobie_Brothers: 1
+The_Doors: 1
+The_Felice_Brothers: 1
+The_Five_Stairsteps: 1
+The_Grascals: 3
+The_Kills: 2
+The_Lemonheads: 1
+The_Living_End: 1
+Thelma_Houston: 1
+The_Offspring: 1
+Theory_Of_A_Deadman: 1
+The_Pussycat_Dolls: 1
+The_Troggs: 1
+Third_Day: 1
+Tift_Merritt: 1
+Toby_Keith: 1
+Toni_Braxton: 1
+Trisha_Yearwood: 1
+Tyrese: 1
+Wilco: 2
+Yellowcard: 1
+Zero_7: 1
+
+Statistics for major_tonality
+Size for the fold: 227 songs
+Number of artists: 179
+Number of songs: 249
+Number of songs per artist:
+3_Doors_Down: 1
+Alabama: 1
+Alan_Jackson: 1
+Alison_Krauss__Union_Station: 2
+America: 2
+American_Hi-Fi: 1
+Arctic_Monkeys: 1
+Backstreet_Boys: 1
+Barbara_Acklin: 1
+Beck: 1
+Beirut: 1
+Ben_Harper: 1
+Ben_Kweller: 1
+Bert_Kaempfert: 1
+Betty_Everett: 1
+Bill_Haley__His_Comets: 1
+Billie_Myers: 1
+Billy_Preston: 1
+Bobby_Vee: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Booker_T__The_MGs: 2
+Boots_Randolph: 1
+Bouncing_Souls: 1
+Buffalo_Springfield: 2
+Burl_Ives: 1
+Carl_Smith: 1
+Carly_Simon: 1
+Carpenters: 4
+Chaka_Demus__Pliers: 1
+Cheap_Trick: 2
+Chet_Atkins__Les_Paul: 1
+Chris_Kenner: 1
+Chris_Tomlin: 1
+Clarence_Frogman_Henry: 1
+Cocoa_Tea: 1
+Colbie_Caillat: 1
+Coldplay: 3
+Creedence_Clearwater_Revival: 4
+Danny__The_Juniors: 2
+Darryl_Worley: 1
+Dar_Williams: 2
+Datarock: 1
+Dead_Or_Alive: 1
+Death_Cab_for_Cutie: 1
+Dido: 2
+Divinyls: 1
+Doyle_Dykes: 1
+Eagles: 3
+Earl_Hooker: 1
+Eric_Carmen: 1
+Etta_Baker: 1
+Evelyn_Champagne_King: 1
+Fats_Domino: 2
+Foo_Fighters: 1
+Frankie_Paul: 1
+Frou_Frou: 1
+George_Jones: 1
+George_Michael: 2
+Gillian_Welch: 1
+Gold_City: 1
+Hank_Williams: 1
+Ini_Kamoze: 1
+Jackie_Wilson: 1
+Jack_Johnson: 7
+James_McMurtry: 2
+James_Taylor: 3
+Jamie_Lidell: 1
+Jamie_ONeal: 1
+Jason_Aldean: 1
+Jay__The_Americans: 2
+Jefferson_Starship: 1
+Jem: 1
+Jenny_Lewis_with_The_Watson_Twins: 2
+Joe_Bonamassa: 1
+Johnny_Otis: 1
+Johnny_Winter: 1
+Jonah33: 1
+Jordin_Sparks: 1
+Josh_Turner: 3
+Joss_Stone: 3
+Kathy_Mattea: 1
+Keith_Whitley: 1
+Kelly_Clarkson: 1
+Lauryn_Hill: 1
+Led_Zeppelin: 2
+Lee_Ann_Womack: 1
+Lefty_Frizzell: 1
+Lindsay_Lohan: 1
+Little_Anthony_and_The_Imperials: 1
+Liz_Story: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 3
+Lyle_Lovett: 1
+Manchester_Orchestra: 1
+Mariah_Carey: 1
+Mark_Schultz: 1
+Martha__The_Vandellas: 2
+Matt_Nathanson: 1
+Mcfadden__Whitehead: 1
+Mel_Carter: 1
+Melissa_Manchester: 1
+MercyME: 1
+Michael_Jackson: 1
+Mike_Doughty: 2
+Mississippi_John_Hurt: 4
+Mitch_Ryder__The_Detroit_Wheels: 1
+Modest_Mouse: 1
+Muddy_Waters: 1
+Musical_Youth: 1
+Nirvana: 1
+Nitty_Gritty_Dirt_Band: 1
+No_Doubt: 1
+Okkervil_River: 4
+Otis_Redding: 1
+Parliament: 1
+Patty_Griffin: 5
+Phil_Collins: 1
+Phil_Vassar: 1
+PM_Dawn: 1
+Pretenders: 1
+Prince__The_Revolution: 1
+Richard_Thompson: 3
+Rihanna: 1
+Ritchie_Valens: 1
+Robert_Johnson: 1
+Ryan_Adams: 1
+Sam_Cooke: 1
+Sam__Dave: 2
+Shelby_Lynne: 1
+Shudder_To_Think: 1
+Simon__Garfunkel: 1
+Sizzla: 1
+Smokey_Robinson__The_Miracles: 4
+Solomon_Burke: 1
+Spiritualized: 1
+Stars: 2
+Steve_Earle: 1
+Switchfoot: 1
+Taylor_Swift: 1
+THE_AD_LIBS: 1
+The_Animals: 2
+The_Breeders: 1
+The_Cranberries: 1
+The_Delfonics: 2
+The_Derailers: 1
+The_Doobie_Brothers: 1
+The_Doors: 1
+The_Edwin_Hawkins_Singers: 1
+The_Elegants: 1
+The_Felice_Brothers: 3
+The_Fiery_Furnaces: 1
+The_Five_Stairsteps: 1
+The_Fortunes: 1
+The_Grascals: 3
+The_Kills: 2
+The_Kingsmen: 1
+The_Lemonheads: 1
+Thelma_Houston: 1
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+The_Penguins: 1
+The_Shangri-Las: 1
+The_Shirelles: 1
+The_Troggs: 1
+Third_Day: 3
+Tift_Merritt: 1
+Tilly_And_The_Wall: 1
+Toby_Keith: 1
+Tom_Tom_Club: 1
+Tracy_Chapman: 1
+Trisha_Yearwood: 2
+Vampire_Weekend: 2
+War: 1
+Webb_Pierce: 1
+White_Lion: 1
+Wilco: 3
+Wild_Cherry: 1
+Xavier_Rudd: 1
+Yellowcard: 1
+Zero_7: 1
+
+Statistics for thru_composed_melodic_style
+Size for the fold: 31 songs
+Number of artists: 35
+Number of songs: 37
+Number of songs per artist:
+Alan_Jackson: 1
+America: 1
+Barbara_Acklin: 1
+Beirut: 1
+Blackstreet_feat_Dr_Dre: 1
+Bobby_Vee: 1
+Buddy_Guy: 1
+Chet_Atkins__Les_Paul: 1
+Cocoa_Tea: 1
+Dar_Williams: 2
+Etta_Baker: 1
+Evelyn_Champagne_King: 1
+Fugees: 1
+Gillian_Welch: 1
+James_Taylor: 1
+Josh_Turner: 1
+Kathy_Mattea: 1
+Lee_Ann_Womack: 1
+Liz_Story: 1
+Mariah_Carey: 1
+Mark_Schultz: 1
+Mississippi_John_Hurt: 1
+Okkervil_River: 1
+Parliament: 1
+Prince__The_Revolution: 1
+Sam__Dave: 2
+Secret_Garden: 1
+Smokey_Robinson__The_Miracles: 1
+The_Breeders: 1
+The_Five_Stairsteps: 1
+The_Fortunes: 1
+Third_Day: 1
+Toni_Braxton: 1
+Trisha_Yearwood: 1
+Vampire_Weekend: 1
+
+Statistics for a_dynamic_male_vocal
+Size for the fold: 57 songs
+Number of artists: 41
+Number of songs: 54
+Number of songs per artist:
+3_Doors_Down: 1
+American_Hi-Fi: 1
+Beck: 2
+Ben_Harper: 1
+Bill_Haley__His_Comets: 1
+Bright_Eyes: 1
+Burl_Ives: 1
+Carl_Smith: 1
+Cheap_Trick: 1
+Clarence_Frogman_Henry: 1
+Coldplay: 2
+Creedence_Clearwater_Revival: 2
+Eagles: 2
+Fats_Domino: 2
+Foo_Fighters: 1
+Jack_Johnson: 3
+Jefferson_Starship: 1
+Johnny_Lee: 1
+Led_Zeppelin: 1
+Little_Anthony_and_The_Imperials: 1
+Marilyn_Manson: 1
+Mississippi_John_Hurt: 3
+Modest_Mouse: 1
+Musical_Youth: 1
+Nirvana: 1
+Phil_Collins: 1
+Richard_Thompson: 1
+Ritchie_Valens: 1
+Robert_Johnson: 1
+Sam_Cooke: 1
+Shudder_To_Think: 1
+Sting: 1
+Stray_Cats: 1
+The_Doobie_Brothers: 1
+The_Doors: 2
+The_Grascals: 3
+The_Manhattans: 1
+Theory_Of_A_Deadman: 1
+Third_Day: 1
+White_Lion: 1
+Wilco: 2
+
+Statistics for classic_rock
+Size for the fold: 106 songs
+Number of artists: 70
+Number of songs: 97
+Number of songs per artist:
+3_Doors_Down: 1
+America: 2
+Arctic_Monkeys: 1
+Betty_Everett: 1
+Bill_Haley__His_Comets: 1
+Bobby_Vee: 1
+Booker_T__The_MGs: 1
+Bouncing_Souls: 1
+Buffalo_Springfield: 2
+Carly_Simon: 1
+Carpenters: 2
+Cheap_Trick: 2
+Cinderella: 2
+Coldplay: 3
+Collective_Soul: 1
+Creedence_Clearwater_Revival: 4
+Danny__The_Juniors: 2
+Divinyls: 1
+Eagles: 3
+Eric_Carmen: 1
+Faith_No_More: 1
+Fats_Domino: 1
+Foo_Fighters: 3
+Foreigner: 1
+George_Jones: 1
+George_Michael: 1
+Jack_Johnson: 1
+James_Taylor: 3
+Jamie_Lidell: 1
+Jay__The_Americans: 1
+Jefferson_Starship: 1
+Johnny_Otis: 1
+Johnny_Winter: 1
+Judas_Priest: 1
+Led_Zeppelin: 4
+Martha__The_Vandellas: 1
+Michael_Hedges: 1
+Michael_Jackson: 2
+Mitch_Ryder__The_Detroit_Wheels: 1
+Nirvana: 4
+Parliament: 1
+Patty_Griffin: 1
+Phil_Collins: 1
+Pretenders: 1
+Rage_Against_The_Machine: 1
+REM: 1
+Ritchie_Valens: 1
+Sam__Dave: 1
+Simon__Garfunkel: 1
+Smokey_Robinson__The_Miracles: 1
+Solomon_Burke: 1
+Sting: 1
+Stray_Cats: 1
+THE_AD_LIBS: 1
+The_Animals: 2
+The_Cranberries: 1
+The_Doobie_Brothers: 1
+The_Doors: 3
+The_Fortunes: 1
+The_Kingsmen: 1
+The_Penguins: 1
+The_Shangri-Las: 1
+The_Shirelles: 1
+The_Troggs: 1
+The_Weather_Girls: 1
+Tom_Tom_Club: 1
+Tracy_Chapman: 1
+War: 1
+White_Lion: 1
+Wild_Cherry: 1
+
+Statistics for electric_rock_instrumentation
+Size for the fold: 41 songs
+Number of artists: 27
+Number of songs: 31
+Number of songs per artist:
+American_Hi-Fi: 1
+Arctic_Monkeys: 1
+Beck: 1
+Bloc_Party: 1
+Buffalo_Springfield: 1
+Cheap_Trick: 2
+Coldplay: 1
+Creedence_Clearwater_Revival: 1
+Divinyls: 1
+Faith_No_More: 1
+Kelly_Clarkson: 2
+Led_Zeppelin: 2
+Los_Lonely_Boys: 1
+Nirvana: 1
+No_Doubt: 1
+Pretenders: 1
+Shudder_To_Think: 1
+The_Animals: 2
+The_Breeders: 1
+The_Cranberries: 1
+The_Doors: 1
+The_Kingsmen: 1
+The_Lemonheads: 1
+The_Living_End: 1
+Tift_Merritt: 1
+Vampire_Weekend: 1
+White_Lion: 1
+
+Statistics for punk_influences
+Size for the fold: 21 songs
+Number of artists: 18
+Number of songs: 23
+Number of songs per artist:
+American_Hi-Fi: 1
+Black_Tide: 1
+Bloc_Party: 1
+Bouncing_Souls: 1
+Crystal_Castles: 1
+Foo_Fighters: 1
+Ladytron: 1
+Modest_Mouse: 2
+Of_Montreal: 1
+Okkervil_River: 1
+Rage_Against_The_Machine: 1
+Sons_And_Daughters: 1
+The_Kills: 5
+The_Living_End: 1
+The_Offspring: 1
+The_Presets: 1
+Tom_Tom_Club: 1
+Yellowcard: 1
+
+Statistics for hip_hop
+Size for the fold: 20 songs
+Number of artists: 23
+Number of songs: 26
+Number of songs per artist:
+Beastie_Boys: 1
+Chaka_Demus__Pliers: 1
+Crystal_Castles: 1
+Daft_Punk: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+FC_Kahuna: 1
+Fugees: 1
+Girl_Talk: 1
+Gorillaz: 1
+Ini_Kamoze: 1
+Jordin_Sparks: 1
+Kelly_Clarkson: 1
+Ladytron: 1
+Lauryn_Hill: 2
+Letoya: 1
+Lloyd: 1
+Miss_Kittin__The_Hacker: 1
+Musical_Youth: 1
+PM_Dawn: 1
+Rage_Against_The_Machine: 1
+Rihanna: 2
+The_Pussycat_Dolls: 2
+Tyrese: 1
+
+Statistics for trippy_soundscapes
+Size for the fold: 9 songs
+Number of artists: 9
+Number of songs: 9
+Number of songs per artist:
+Beastie_Boys: 1
+Beck: 1
+Boozoo_Bajou: 1
+FC_Kahuna: 1
+Girl_Talk: 1
+Gorillaz: 1
+Ladytron: 1
+Portishead: 1
+Thievery_Corporation: 1
+
+Statistics for pop_rock_qualities
+Size for the fold: 23 songs
+Number of artists: 17
+Number of songs: 20
+Number of songs per artist:
+3_Doors_Down: 1
+Ashlee_Simpson: 2
+Carly_Simon: 1
+Creedence_Clearwater_Revival: 1
+Cyndi_Lauper: 1
+Dead_Or_Alive: 1
+Eric_Carmen: 1
+George_Michael: 1
+Jack_Johnson: 1
+Jay__The_Americans: 1
+Kelly_Clarkson: 1
+Lindsay_Lohan: 2
+Manchester_Orchestra: 2
+Phil_Collins: 1
+Prince__The_Revolution: 1
+Shakira: 1
+Toni_Braxton: 1
+
+Statistics for adult_contemporary
+Size for the fold: 26 songs
+Number of artists: 24
+Number of songs: 31
+Number of songs per artist:
+America: 1
+Billie_Myers: 1
+Carpenters: 1
+Colbie_Caillat: 1
+Coldplay: 1
+Dido: 4
+Eric_Carmen: 1
+Jack_Johnson: 1
+James_Taylor: 3
+Jay__The_Americans: 1
+Jefferson_Starship: 1
+Joss_Stone: 1
+Kelly_Clarkson: 2
+Mariah_Carey: 1
+Mcfadden__Whitehead: 1
+Melissa_Manchester: 1
+Michael_Jackson: 1
+Phil_Collins: 2
+PM_Dawn: 1
+Shakira: 1
+Sting: 1
+The_Fortunes: 1
+Toni_Braxton: 1
+Tracy_Chapman: 1
+
+Statistics for melodic_songwriting
+Size for the fold: 55 songs
+Number of artists: 50
+Number of songs: 60
+Number of songs per artist:
+Alan_Jackson: 1
+Backstreet_Boys: 1
+Bert_Kaempfert: 1
+Blackstreet_feat_Dr_Dre: 1
+Booker_T__The_MGs: 2
+Boots_Randolph: 1
+Carly_Simon: 1
+Carpenters: 3
+Coldplay: 1
+Collective_Soul: 1
+Creedence_Clearwater_Revival: 2
+Dar_Williams: 1
+Doyle_Dykes: 1
+Eagles: 1
+Fugees: 1
+George_Jones: 1
+Hank_Williams: 1
+Jack_Johnson: 1
+James_Taylor: 2
+Jefferson_Starship: 1
+Jem: 1
+Jodeci: 1
+Johnny_Otis: 1
+Josh_Turner: 1
+Kathy_Mattea: 1
+Lauryn_Hill: 1
+Lucinda_Williams: 1
+Martha__The_Vandellas: 1
+Michael_Jackson: 1
+Mike_Doughty: 1
+Mississippi_John_Hurt: 1
+Okkervil_River: 1
+Otis_Redding: 1
+Patty_Griffin: 6
+Red_Hot_Chili_Peppers: 1
+Secret_Garden: 1
+Simon__Garfunkel: 1
+Sting: 1
+Tanto_Metro__Devonte: 1
+The_Cranberries: 1
+The_Elegants: 1
+The_Fortunes: 1
+Theory_Of_A_Deadman: 1
+The_Pussycat_Dolls: 1
+The_Shirelles: 1
+Toni_Braxton: 1
+Tyrese: 1
+War: 1
+Wild_Cherry: 1
+Xavier_Rudd: 1
+
+Statistics for acoustic_guitar
+Size for the fold: 9 songs
+Number of artists: 9
+Number of songs: 10
+Number of songs per artist:
+Dido: 1
+Doyle_Dykes: 1
+Jack_Johnson: 1
+James_Taylor: 1
+Jordin_Sparks: 1
+Michael_Hedges: 1
+Richard_Thompson: 2
+Steve_Earle: 1
+Toni_Braxton: 1
+
+Statistics for great_lyrics
+Size for the fold: 18 songs
+Number of artists: 13
+Number of songs: 14
+Number of songs per artist:
+Arctic_Monkeys: 1
+Coldplay: 1
+Dar_Williams: 1
+Dido: 1
+Franz_Ferdinand: 1
+Modest_Mouse: 1
+Nirvana: 2
+Rage_Against_The_Machine: 1
+Sting: 1
+Switchfoot: 1
+The_Kills: 1
+The_Offspring: 1
+Vampire_Weekend: 1
+
+Statistics for live
+Size for the fold: 35 songs
+Number of artists: 23
+Number of songs: 27
+Number of songs per artist:
+Chris_Tomlin: 1
+Coldplay: 1
+Dido: 1
+Eagles: 2
+Eric_Carmen: 1
+Foo_Fighters: 1
+Fugees: 1
+James_Taylor: 2
+Johnny_Winter: 1
+Lucinda_Williams: 1
+Manu_Chao: 1
+Matt_Nathanson: 1
+Mike_Doughty: 1
+Muddy_Waters: 1
+Nirvana: 2
+Phil_Collins: 1
+Portishead: 2
+Rage_Against_The_Machine: 1
+Simon__Garfunkel: 1
+Son_House: 1
+The_Doobie_Brothers: 1
+The_Offspring: 1
+Wilco: 1
+
+Statistics for reggae
+Size for the fold: 17 songs
+Number of artists: 16
+Number of songs: 16
+Number of songs per artist:
+Bouncing_Souls: 1
+Buju_Banton: 1
+Chaka_Demus__Pliers: 1
+Cocoa_Tea: 1
+Frankie_Paul: 1
+Ini_Kamoze: 1
+Jack_Johnson: 1
+Lauryn_Hill: 1
+Manu_Chao: 1
+Musical_Youth: 1
+No_Doubt: 1
+Rihanna: 1
+Sizzla: 1
+Tanto_Metro__Devonte: 1
+War: 1
+Xavier_Rudd: 1
+
+Statistics for acoustic_rhythm_guitars
+Size for the fold: 117 songs
+Number of artists: 95
+Number of songs: 139
+Number of songs per artist:
+3_Doors_Down: 3
+Alan_Jackson: 1
+Alison_Krauss__Union_Station: 2
+America: 2
+Backstreet_Boys: 1
+Beck: 1
+Ben_Harper: 1
+Bert_Jansch: 1
+Bert_Kaempfert: 1
+Bobby_Vee: 1
+Boots_Randolph: 1
+Buffalo_Springfield: 1
+Burl_Ives: 1
+Carl_Smith: 1
+Carpenters: 1
+Chet_Atkins__Les_Paul: 1
+Chris_Tomlin: 1
+Colbie_Caillat: 1
+Coldplay: 1
+Collective_Soul: 1
+Creedence_Clearwater_Revival: 2
+Dar_Williams: 2
+Datarock: 1
+Dido: 3
+Doyle_Dykes: 1
+Eagles: 3
+Etta_Baker: 1
+George_Jones: 1
+George_Michael: 1
+Gillian_Welch: 1
+Gold_City: 1
+Hank_Williams: 1
+Jack_Johnson: 7
+James_McMurtry: 2
+James_Taylor: 3
+Jamie_ONeal: 1
+Jason_Aldean: 1
+Jay__The_Americans: 2
+Jem: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+Jonah33: 1
+Jordin_Sparks: 1
+Josh_Turner: 3
+Kathy_Mattea: 1
+Keith_Whitley: 1
+Lee_Ann_Womack: 1
+Lefty_Frizzell: 1
+Lloyd: 1
+Lucinda_Williams: 3
+Lyle_Lovett: 1
+Manchester_Orchestra: 2
+Margot__The_Nuclear_So_And_Sos: 1
+Mark_Schultz: 1
+Matt_Nathanson: 1
+Melissa_Manchester: 1
+MGMT: 1
+Mice_Parade: 1
+Michael_Hedges: 1
+Mike_Doughty: 2
+Mississippi_John_Hurt: 4
+Modest_Mouse: 2
+Nitty_Gritty_Dirt_Band: 1
+Okkervil_River: 4
+Otis_Redding: 1
+Patty_Griffin: 5
+Phil_Vassar: 1
+REM: 1
+Richard_Thompson: 2
+Rihanna: 1
+Robert_Johnson: 1
+Ryan_Adams: 1
+Shelby_Lynne: 1
+Simon__Garfunkel: 1
+Steve_Earle: 1
+Switchfoot: 1
+Taylor_Swift: 1
+The_Beta_Band: 1
+The_Doobie_Brothers: 1
+The_Felice_Brothers: 2
+The_Fiery_Furnaces: 1
+The_Grascals: 3
+The_Kills: 1
+The_Lemonheads: 1
+Third_Day: 3
+Tift_Merritt: 1
+Tilly_And_The_Wall: 1
+Toby_Keith: 1
+Toni_Braxton: 1
+Tracy_Chapman: 1
+Trisha_Yearwood: 2
+Tyrese: 1
+Webb_Pierce: 1
+White_Lion: 1
+Wilco: 1
+Xavier_Rudd: 1
+
+Statistics for folk
+Size for the fold: 76 songs
+Number of artists: 52
+Number of songs: 93
+Number of songs per artist:
+Alison_Krauss__Union_Station: 2
+America: 2
+Beck: 3
+Beirut: 1
+Ben_Harper: 1
+Ben_Kweller: 1
+Bert_Jansch: 1
+Bright_Eyes: 1
+Buffalo_Springfield: 2
+Burl_Ives: 1
+Carly_Simon: 1
+Carpenters: 1
+Colbie_Caillat: 1
+Creedence_Clearwater_Revival: 4
+Dar_Williams: 2
+Doyle_Dykes: 1
+Eagles: 1
+Etta_Baker: 1
+George_Jones: 1
+Gillian_Welch: 1
+Jack_Johnson: 7
+James_McMurtry: 2
+James_Taylor: 3
+Jem: 1
+Jenny_Lewis_with_The_Watson_Twins: 2
+Kathy_Mattea: 1
+Lucinda_Williams: 3
+Manu_Chao: 1
+Matt_Nathanson: 1
+Melissa_Manchester: 1
+Michael_Hedges: 1
+Mississippi_John_Hurt: 4
+Modest_Mouse: 2
+Muddy_Waters: 1
+Nitty_Gritty_Dirt_Band: 1
+Okkervil_River: 4
+Patty_Griffin: 7
+Richard_Thompson: 3
+Robert_Johnson: 1
+Ryan_Adams: 1
+Secret_Garden: 1
+Simon__Garfunkel: 1
+The_Cranberries: 1
+The_Doors: 1
+The_Felice_Brothers: 2
+The_Grascals: 3
+The_Shirelles: 1
+Tift_Merritt: 1
+Tracy_Chapman: 1
+Vampire_Weekend: 1
+Wilco: 3
+Xavier_Rudd: 1
+
+Statistics for prominent_percussion
+Size for the fold: 39 songs
+Number of artists: 33
+Number of songs: 38
+Number of songs per artist:
+Beirut: 1
+Bert_Jansch: 1
+Boots_Randolph: 1
+Bright_Eyes: 1
+Chaka_Demus__Pliers: 1
+Dead_Or_Alive: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Frankie_Paul: 1
+Franz_Ferdinand: 1
+Jack_Johnson: 3
+Jem: 1
+Johnny_Otis: 1
+Letoya: 1
+Lyle_Lovett: 1
+Manu_Chao: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Martha__The_Vandellas: 1
+Michael_Jackson: 1
+Mitch_Ryder__The_Detroit_Wheels: 1
+Musical_Youth: 1
+Patty_Griffin: 2
+Phil_Collins: 1
+Portishead: 1
+Sizzla: 1
+Smokey_Robinson__The_Miracles: 2
+Spiritualized: 1
+Sting: 1
+The_Kills: 2
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+Third_Day: 1
+Tilly_And_The_Wall: 1
+Wild_Cherry: 1
+Xavier_Rudd: 1
+
+Statistics for romantic_lyrics
+Size for the fold: 47 songs
+Number of artists: 36
+Number of songs: 40
+Number of songs per artist:
+Backstreet_Boys: 1
+Carly_Simon: 1
+Carpenters: 2
+Chris_Kenner: 1
+Coldplay: 1
+Daft_Punk: 1
+Diana_Ross: 1
+Evelyn_Champagne_King: 1
+Fats_Domino: 1
+Foreigner: 1
+Fugees: 1
+James_Taylor: 1
+Jem: 1
+Jodeci: 1
+Joss_Stone: 2
+Lauryn_Hill: 1
+Led_Zeppelin: 1
+Lefty_Frizzell: 1
+Letoya: 1
+Mariah_Carey: 2
+Martha__The_Vandellas: 1
+Mel_Carter: 1
+Melissa_Manchester: 1
+Portishead: 1
+Richard_Thompson: 1
+Shakira: 1
+Shalamar: 1
+Shudder_To_Think: 1
+The_Delfonics: 2
+The_Derailers: 1
+The_Elegants: 1
+The_Shirelles: 1
+The_Troggs: 1
+Thievery_Corporation: 1
+Trisha_Yearwood: 1
+White_Lion: 1
+
+Statistics for electric_rhythm_guitars
+Size for the fold: 31 songs
+Number of artists: 23
+Number of songs: 23
+Number of songs per artist:
+Arctic_Monkeys: 1
+Average_White_Band: 1
+Bloc_Party: 1
+Cheap_Trick: 1
+Coldplay: 1
+James_McMurtry: 1
+Jay__The_Americans: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+MGMT: 1
+Mice_Parade: 1
+Mitch_Ryder__The_Detroit_Wheels: 1
+Modest_Mouse: 1
+Muddy_Waters: 1
+Nirvana: 1
+Ritchie_Valens: 1
+The_Kills: 1
+The_Kingsmen: 1
+The_Living_End: 1
+Theory_Of_A_Deadman: 1
+The_Shangri-Las: 1
+Tift_Merritt: 1
+Toby_Keith: 1
+White_Lion: 1
+
+Statistics for christian
+Size for the fold: 14 songs
+Number of artists: 15
+Number of songs: 18
+Number of songs per artist:
+America: 1
+Chris_Tomlin: 1
+Gold_City: 1
+James_McMurtry: 1
+Jonah33: 1
+Jordin_Sparks: 1
+Josh_Turner: 2
+Los_Lonely_Boys: 1
+Mark_Schultz: 1
+MercyME: 1
+Patty_Griffin: 1
+Switchfoot: 1
+The_Edwin_Hawkins_Singers: 1
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+Third_Day: 3
+
+Statistics for acoustic_sonority
+Size for the fold: 66 songs
+Number of artists: 51
+Number of songs: 70
+Number of songs per artist:
+Alison_Krauss__Union_Station: 2
+America: 1
+Beirut: 1
+Ben_Kweller: 1
+Bert_Kaempfert: 1
+Bobby_Vee: 1
+Boots_Randolph: 1
+Burl_Ives: 1
+Carpenters: 2
+Clarence_Frogman_Henry: 1
+Colbie_Caillat: 1
+Danny__The_Juniors: 2
+Dar_Williams: 1
+Dido: 1
+Doyle_Dykes: 1
+Etta_Baker: 1
+Fats_Domino: 1
+George_Michael: 1
+Gillian_Welch: 1
+Jack_Johnson: 7
+James_Taylor: 2
+Keith_Whitley: 1
+Lefty_Frizzell: 1
+Little_Anthony_and_The_Imperials: 1
+Liz_Story: 1
+Lyle_Lovett: 1
+Manchester_Orchestra: 1
+Mel_Carter: 1
+Michael_Hedges: 1
+Mississippi_John_Hurt: 4
+Nitty_Gritty_Dirt_Band: 1
+Otis_Redding: 1
+Patty_Griffin: 4
+Richard_Thompson: 2
+Robert_Johnson: 1
+Robin_Thicke: 1
+Sam_Cooke: 1
+Secret_Garden: 1
+Shelby_Lynne: 1
+Simon__Garfunkel: 1
+Smokey_Robinson__The_Miracles: 1
+Son_House: 1
+THE_AD_LIBS: 1
+The_Edwin_Hawkins_Singers: 1
+The_Elegants: 1
+The_Felice_Brothers: 1
+The_Grascals: 3
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+The_Penguins: 1
+The_Pussycat_Dolls: 1
+Xavier_Rudd: 1
+
+Statistics for modern_rb_stylings
+Size for the fold: 16 songs
+Number of artists: 17
+Number of songs: 21
+Number of songs per artist:
+Blackstreet_feat_Dr_Dre: 1
+Destinys_Child_featuring_Wyclef_Jean: 1
+Fugees: 1
+Groove_Theory: 1
+Jamie_Lidell: 1
+Jodeci: 1
+Jordin_Sparks: 1
+Joss_Stone: 3
+Lauryn_Hill: 2
+Letoya: 1
+Lloyd: 1
+Mariah_Carey: 2
+PM_Dawn: 1
+Rihanna: 1
+Robin_Thicke: 1
+Toni_Braxton: 1
+Tyrese: 1
+
+Statistics for string_section_beds
+Size for the fold: 19 songs
+Number of artists: 22
+Number of songs: 23
+Number of songs per artist:
+3_Doors_Down: 1
+Ben_Kweller: 1
+Carpenters: 1
+Diana_Ross: 1
+Dido: 1
+George_Michael: 1
+Gold_City: 1
+James_Taylor: 1
+Jason_Aldean: 1
+Joss_Stone: 2
+Lee_Ann_Womack: 1
+Lucinda_Williams: 1
+Matt_Nathanson: 1
+Michael_Jackson: 1
+Robin_Thicke: 1
+Shakira: 1
+Smokey_Robinson__The_Miracles: 1
+Sting: 1
+The_Delfonics: 1
+The_Manhattans: 1
+The_Pussycat_Dolls: 1
+Wilco: 1
+
+Statistics for acoustic_rhythm_piano
+Size for the fold: 93 songs
+Number of artists: 89
+Number of songs: 104
+Number of songs per artist:
+Alan_Jackson: 1
+America: 2
+Ashlee_Simpson: 2
+Backstreet_Boys: 1
+Barbara_Acklin: 1
+Ben_Kweller: 1
+Betty_Everett: 1
+Bill_Haley__His_Comets: 1
+Bobby_Vee: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Boots_Randolph: 1
+Buddy_Guy: 1
+Carly_Simon: 1
+Carpenters: 3
+Chaka_Demus__Pliers: 1
+Chet_Atkins__Les_Paul: 1
+Chris_Kenner: 1
+Chris_Tomlin: 1
+Clarence_Frogman_Henry: 1
+Coldplay: 2
+Danny__The_Juniors: 2
+Darryl_Worley: 1
+Death_Cab_for_Cutie: 1
+Diana_Ross: 1
+Eagles: 2
+Earl_Hooker: 1
+Evelyn_Champagne_King: 1
+Fats_Domino: 2
+George_Jones: 1
+Gold_City: 1
+Groove_Theory: 1
+James_Taylor: 1
+Jamie_Lidell: 1
+Jason_Aldean: 1
+Jay__The_Americans: 1
+Jefferson_Starship: 1
+Johnny_Lee: 1
+Johnny_Otis: 1
+Johnny_Winter: 1
+Jonah33: 1
+Josh_Turner: 2
+Joss_Stone: 1
+Kathy_Mattea: 1
+Keith_Whitley: 1
+Led_Zeppelin: 2
+Lefty_Frizzell: 1
+Letoya: 1
+Lindsay_Lohan: 1
+Lucinda_Williams: 1
+Lyle_Lovett: 1
+Mariah_Carey: 2
+Mark_Schultz: 1
+Martha__The_Vandellas: 2
+Mel_Carter: 1
+MercyME: 1
+Mike_Doughty: 1
+Mitch_Ryder__The_Detroit_Wheels: 1
+Muddy_Waters: 1
+Okkervil_River: 1
+Otis_Redding: 1
+Patty_Griffin: 1
+Phil_Vassar: 1
+PM_Dawn: 1
+Sam_Cooke: 1
+Sam__Dave: 1
+Secret_Garden: 1
+Sizzla: 1
+Smokey_Robinson__The_Miracles: 2
+Solomon_Burke: 1
+Sons_And_Daughters: 1
+Spiritualized: 1
+Taylor_Swift: 1
+THE_AD_LIBS: 1
+The_Delfonics: 2
+The_Edwin_Hawkins_Singers: 1
+The_Fiery_Furnaces: 1
+The_Five_Stairsteps: 1
+The_Fortunes: 1
+The_Kills: 1
+The_Penguins: 1
+The_Pussycat_Dolls: 1
+The_Shangri-Las: 1
+The_Shirelles: 1
+Third_Day: 1
+Tilly_And_The_Wall: 1
+Toby_Keith: 1
+Toni_Braxton: 1
+Trisha_Yearwood: 2
+Wilco: 1
+
+Statistics for electric_piano
+Size for the fold: 28 songs
+Number of artists: 30
+Number of songs: 32
+Number of songs per artist:
+3_Doors_Down: 1
+Billy_Preston: 1
+Blackstreet_feat_Dr_Dre: 1
+Carpenters: 1
+Dido: 1
+Eagles: 1
+Eric_Carmen: 1
+Foreigner: 1
+Frankie_Paul: 1
+George_Michael: 1
+Heatwave: 1
+Jodeci: 1
+Joss_Stone: 1
+Led_Zeppelin: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Mcfadden__Whitehead: 1
+Michael_Jackson: 1
+Okkervil_River: 2
+Parliament: 1
+Portishead: 1
+Richard_Thompson: 1
+Shakira: 1
+Shalamar: 1
+The_Doors: 1
+The_Kingsmen: 1
+Thelma_Houston: 1
+The_Manhattans: 1
+Tyrese: 1
+Vampire_Weekend: 2
+Zero_7: 1
+
+Statistics for heartbreaking_lyrics
+Size for the fold: 18 songs
+Number of artists: 26
+Number of songs: 27
+Number of songs per artist:
+3_Doors_Down: 1
+Billie_Myers: 1
+Buddy_Guy: 1
+Carpenters: 1
+Coldplay: 1
+Eagles: 1
+Fats_Domino: 1
+Hank_Williams: 1
+Jackie_Wilson: 1
+Keith_Whitley: 1
+Kelly_Clarkson: 1
+Little_Anthony_and_The_Imperials: 1
+Lucinda_Williams: 1
+Phil_Collins: 1
+Red_Hot_Chili_Peppers: 1
+REM: 1
+Ritchie_Valens: 1
+Robert_Johnson: 1
+Shelby_Lynne: 1
+Smokey_Robinson__The_Miracles: 2
+Solomon_Burke: 1
+Thelma_Houston: 1
+The_Manhattans: 1
+Theory_Of_A_Deadman: 1
+Toni_Braxton: 1
+Tracy_Chapman: 1
+
+Statistics for vocal_harmonies
+Size for the fold: 55 songs
+Number of artists: 44
+Number of songs: 49
+Number of songs per artist:
+America: 1
+Backstreet_Boys: 1
+Beck: 1
+Betty_Everett: 1
+Bill_Haley__His_Comets: 1
+Bobby_Vee: 1
+Bright_Eyes: 1
+Buffalo_Springfield: 2
+Danny__The_Juniors: 1
+Eagles: 2
+George_Jones: 1
+Heatwave: 1
+Jackie_Wilson: 1
+Jay__The_Americans: 1
+Jefferson_Starship: 1
+Led_Zeppelin: 1
+Little_Anthony_and_The_Imperials: 1
+Mcfadden__Whitehead: 1
+Mel_Carter: 1
+Michael_Jackson: 2
+Modest_Mouse: 1
+PM_Dawn: 1
+Rihanna: 1
+Smokey_Robinson__The_Miracles: 1
+Solomon_Burke: 1
+Sons_And_Daughters: 1
+Stars: 1
+Sting: 1
+Tanto_Metro__Devonte: 1
+THE_AD_LIBS: 1
+The_Breeders: 1
+The_Edwin_Hawkins_Singers: 1
+The_Elegants: 1
+The_Felice_Brothers: 2
+The_Kills: 2
+The_Manhattans: 1
+The_Penguins: 1
+The_Shirelles: 1
+Third_Day: 1
+Tilly_And_The_Wall: 1
+Trisha_Yearwood: 1
+Vampire_Weekend: 1
+War: 1
+Wild_Cherry: 1
+
+Statistics for country_influences
+Size for the fold: 17 songs
+Number of artists: 18
+Number of songs: 25
+Number of songs per artist:
+3_Doors_Down: 1
+Ben_Harper: 1
+Bert_Kaempfert: 1
+Buffalo_Springfield: 1
+Creedence_Clearwater_Revival: 2
+Dar_Williams: 1
+Eagles: 2
+James_McMurtry: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+Josh_Turner: 1
+Lucinda_Williams: 1
+Lyle_Lovett: 1
+Mississippi_John_Hurt: 3
+Okkervil_River: 1
+Patty_Griffin: 4
+Shelby_Lynne: 1
+Son_House: 1
+Taylor_Swift: 1
+
+Statistics for hard_rock
+Size for the fold: 61 songs
+Number of artists: 30
+Number of songs: 46
+Number of songs per artist:
+3_Doors_Down: 2
+Black_Tide: 1
+Cheap_Trick: 2
+Cinderella: 2
+Collective_Soul: 1
+Creedence_Clearwater_Revival: 4
+Eagles: 1
+Faith_No_More: 1
+Foo_Fighters: 3
+Foreigner: 1
+Jefferson_Starship: 1
+Joe_Bonamassa: 1
+Johnny_Winter: 1
+Judas_Priest: 1
+Led_Zeppelin: 4
+Marilyn_Manson: 1
+Nirvana: 5
+Orgy: 1
+Pretenders: 1
+Rage_Against_The_Machine: 2
+Switchfoot: 1
+The_Animals: 1
+The_Doors: 1
+The_Kills: 1
+The_Living_End: 1
+The_Offspring: 1
+Theory_Of_A_Deadman: 1
+The_Troggs: 1
+White_Lion: 1
+Yellowcard: 1
+
+Statistics for blues
+Size for the fold: 51 songs
+Number of artists: 42
+Number of songs: 60
+Number of songs per artist:
+Ben_Harper: 1
+Booker_T__The_MGs: 1
+Buddy_Guy: 1
+Chris_Kenner: 1
+Clarence_Frogman_Henry: 1
+Creedence_Clearwater_Revival: 4
+Dido: 1
+Earl_Hooker: 1
+Etta_Baker: 1
+Fats_Domino: 2
+Hank_Williams: 1
+Jack_Johnson: 5
+Jamie_Lidell: 1
+Joe_Bonamassa: 1
+Johnny_Otis: 1
+Johnny_Winter: 1
+Joss_Stone: 3
+Lindsay_Lohan: 1
+Los_Lonely_Boys: 1
+Mississippi_John_Hurt: 4
+Muddy_Waters: 1
+Otis_Redding: 1
+Patty_Griffin: 1
+Portishead: 2
+Robert_Johnson: 1
+Sam_Cooke: 1
+Sam__Dave: 1
+Shelby_Lynne: 1
+Smokey_Robinson__The_Miracles: 1
+Solomon_Burke: 1
+Son_House: 1
+Steve_Earle: 1
+Stray_Cats: 1
+The_Animals: 2
+The_Doors: 2
+The_Edwin_Hawkins_Singers: 1
+The_Kills: 3
+The_Manhattans: 1
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+The_Pussycat_Dolls: 1
+The_Shirelles: 1
+Wild_Cherry: 1
+
+Statistics for country
+Size for the fold: 49 songs
+Number of artists: 53
+Number of songs: 69
+Number of songs per artist:
+Alabama: 1
+Alan_Jackson: 1
+Alison_Krauss__Union_Station: 2
+America: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Buffalo_Springfield: 1
+Burl_Ives: 1
+Carl_Smith: 1
+Chet_Atkins__Les_Paul: 1
+Colbie_Caillat: 1
+Creedence_Clearwater_Revival: 3
+Darryl_Worley: 1
+Dar_Williams: 2
+Eagles: 2
+Earl_Hooker: 1
+George_Jones: 1
+Gillian_Welch: 1
+Hank_Williams: 1
+Jack_Johnson: 1
+James_McMurtry: 1
+James_Taylor: 1
+Jamie_ONeal: 1
+Jason_Aldean: 1
+Jenny_Lewis_with_The_Watson_Twins: 2
+Johnny_Lee: 1
+Josh_Turner: 3
+Kathy_Mattea: 1
+Keith_Whitley: 1
+Lee_Ann_Womack: 1
+Lefty_Frizzell: 1
+Los_Lonely_Boys: 1
+Lucinda_Williams: 3
+Lyle_Lovett: 1
+Mississippi_John_Hurt: 1
+Nitty_Gritty_Dirt_Band: 1
+Patty_Griffin: 4
+Phil_Vassar: 1
+Robert_Johnson: 1
+Ryan_Adams: 1
+Shelby_Lynne: 1
+Simon__Garfunkel: 1
+Solomon_Burke: 1
+Steve_Earle: 1
+Stray_Cats: 1
+Taylor_Swift: 1
+The_Derailers: 1
+The_Felice_Brothers: 2
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+Tift_Merritt: 1
+Toby_Keith: 1
+Trisha_Yearwood: 2
+Webb_Pierce: 1
+Wilco: 2
+
+Statistics for subtle_use_of_acoustic_piano
+Size for the fold: 28 songs
+Number of artists: 26
+Number of songs: 27
+Number of songs per artist:
+Alabama: 1
+Buju_Banton: 1
+Carl_Smith: 1
+Coldplay: 1
+Creedence_Clearwater_Revival: 1
+Faith_No_More: 1
+George_Michael: 1
+Heatwave: 1
+Jack_Johnson: 1
+Jay__The_Americans: 1
+Jordin_Sparks: 1
+Josh_Turner: 1
+Lauryn_Hill: 1
+Led_Zeppelin: 1
+Little_Anthony_and_The_Imperials: 1
+Margot__The_Nuclear_So_And_Sos: 1
+MGMT: 1
+Patty_Griffin: 1
+Shelby_Lynne: 1
+Smokey_Robinson__The_Miracles: 2
+Stars: 1
+The_Animals: 1
+The_Elegants: 1
+The_Weather_Girls: 1
+Tift_Merritt: 1
+Wilco: 1
+
+Statistics for folk_influences
+Size for the fold: 40 songs
+Number of artists: 40
+Number of songs: 54
+Number of songs per artist:
+Alison_Krauss__Union_Station: 2
+America: 1
+Beirut: 1
+Ben_Harper: 1
+Bert_Jansch: 1
+Buffalo_Springfield: 1
+Burl_Ives: 1
+Chris_Tomlin: 1
+Dar_Williams: 1
+Dido: 1
+Doyle_Dykes: 1
+Etta_Baker: 1
+Hank_Williams: 1
+Jack_Johnson: 4
+James_McMurtry: 2
+James_Taylor: 3
+Jay__The_Americans: 1
+Josh_Turner: 1
+Les_Claypool: 1
+Liz_Story: 1
+Lucinda_Williams: 2
+Lyle_Lovett: 1
+Manchester_Orchestra: 2
+Margot__The_Nuclear_So_And_Sos: 1
+Mice_Parade: 1
+Michael_Hedges: 1
+Mike_Doughty: 1
+Mississippi_John_Hurt: 1
+Okkervil_River: 2
+Otis_Redding: 1
+Patty_Griffin: 2
+Richard_Thompson: 1
+Robert_Johnson: 1
+The_Cranberries: 1
+The_Felice_Brothers: 3
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+Third_Day: 2
+Tift_Merritt: 1
+Tracy_Chapman: 1
+Xavier_Rudd: 1
+
+Statistics for prominent_organ
+Size for the fold: 38 songs
+Number of artists: 29
+Number of songs: 36
+Number of songs per artist:
+Billy_Preston: 1
+Booker_T__The_MGs: 2
+Buddy_Guy: 1
+Chaka_Demus__Pliers: 1
+Cocoa_Tea: 1
+Creedence_Clearwater_Revival: 1
+James_McMurtry: 1
+Jamie_Lidell: 1
+Jamie_ONeal: 1
+Josh_Turner: 1
+Joss_Stone: 2
+Lauryn_Hill: 2
+Lucinda_Williams: 1
+Mitch_Ryder__The_Detroit_Wheels: 1
+Musical_Youth: 1
+Patty_Griffin: 1
+Sizzla: 1
+Steve_Earle: 1
+Taylor_Swift: 1
+The_Animals: 2
+The_Doors: 2
+The_Felice_Brothers: 1
+Third_Day: 2
+Tift_Merritt: 1
+Tilly_And_The_Wall: 1
+Toby_Keith: 1
+Trisha_Yearwood: 1
+Vampire_Weekend: 2
+Wilco: 1
+
+Statistics for upbeat_lyrics
+Size for the fold: 24 songs
+Number of artists: 21
+Number of songs: 25
+Number of songs per artist:
+Chris_Tomlin: 1
+Danny__The_Juniors: 1
+Frankie_Paul: 1
+Girl_Talk: 1
+Gold_City: 1
+Heatwave: 1
+Johnny_Otis: 1
+Mark_Schultz: 1
+Mcfadden__Whitehead: 1
+MercyME: 1
+Michael_Jackson: 2
+Mississippi_John_Hurt: 1
+Parliament: 2
+Paul_van_Dyk_Ft_Vega_4: 1
+Phil_Vassar: 1
+Rihanna: 1
+Sam__Dave: 1
+The_Doobie_Brothers: 1
+The_Edwin_Hawkins_Singers: 1
+The_Five_Stairsteps: 1
+Third_Day: 3
+
+Statistics for a_gravelly_male_vocalist
+Size for the fold: 19 songs
+Number of artists: 10
+Number of songs: 11
+Number of songs per artist:
+Buju_Banton: 1
+Cinderella: 1
+Creedence_Clearwater_Revival: 1
+Johnny_Winter: 1
+Led_Zeppelin: 1
+Nirvana: 2
+Okkervil_River: 1
+Rage_Against_The_Machine: 1
+REM: 1
+Sizzla: 1
+
+Statistics for an_emotional_male_vocal
+Size for the fold: 31 songs
+Number of artists: 33
+Number of songs: 33
+Number of songs per artist:
+Average_White_Band: 1
+Backstreet_Boys: 1
+Bouncing_Souls: 1
+Buddy_Guy: 1
+Creedence_Clearwater_Revival: 1
+Faith_No_More: 1
+Foo_Fighters: 1
+Foreigner: 1
+Jackie_Wilson: 1
+Jodeci: 1
+Joe_Bonamassa: 1
+Jonah33: 1
+Judas_Priest: 1
+Led_Zeppelin: 1
+Mcfadden__Whitehead: 1
+Mel_Carter: 1
+Michael_Jackson: 1
+Modest_Mouse: 1
+Okkervil_River: 1
+Orgy: 1
+Otis_Redding: 1
+Phil_Vassar: 1
+REM: 1
+Solomon_Burke: 1
+Son_House: 1
+Sons_And_Daughters: 1
+The_Animals: 1
+The_Doors: 1
+The_Edwin_Hawkins_Singers: 1
+The_Kills: 1
+Third_Day: 1
+Wild_Cherry: 1
+Yellowcard: 1
+
+Statistics for hard_rock_roots
+Size for the fold: 28 songs
+Number of artists: 14
+Number of songs: 17
+Number of songs per artist:
+Black_Tide: 1
+Bouncing_Souls: 1
+Cinderella: 1
+Foo_Fighters: 3
+Judas_Priest: 1
+Marilyn_Manson: 1
+Nirvana: 2
+Orgy: 1
+Patty_Griffin: 1
+Rage_Against_The_Machine: 1
+Red_Hot_Chili_Peppers: 1
+REM: 1
+The_Offspring: 1
+Yellowcard: 1
+
+Statistics for a_mid-tempo_swing_feel
+Size for the fold: 10 songs
+Number of artists: 10
+Number of songs: 10
+Number of songs per artist:
+Alison_Krauss__Union_Station: 1
+George_Jones: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+Johnny_Lee: 1
+Lefty_Frizzell: 1
+Sam_Cooke: 1
+THE_AD_LIBS: 1
+The_Felice_Brothers: 1
+The_Grascals: 1
+Webb_Pierce: 1
+
+Statistics for motown
+Size for the fold: 30 songs
+Number of artists: 17
+Number of songs: 24
+Number of songs per artist:
+Barbara_Acklin: 1
+Betty_Everett: 1
+Diana_Ross: 1
+Jackie_Wilson: 1
+Little_Anthony_and_The_Imperials: 1
+Martha__The_Vandellas: 2
+Mel_Carter: 1
+Michael_Jackson: 2
+Otis_Redding: 1
+Sam_Cooke: 1
+Sam__Dave: 2
+Smokey_Robinson__The_Miracles: 4
+The_Delfonics: 2
+Thelma_Houston: 1
+The_Manhattans: 1
+The_Shangri-Las: 1
+The_Shirelles: 1
+
+Statistics for use_of_a_string_ensemble
+Size for the fold: 19 songs
+Number of artists: 17
+Number of songs: 19
+Number of songs per artist:
+Bobby_Vee: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Carpenters: 2
+Darryl_Worley: 1
+Dido: 1
+Eagles: 1
+Jay__The_Americans: 1
+Jordin_Sparks: 1
+Mark_Schultz: 1
+Mcfadden__Whitehead: 1
+Melissa_Manchester: 1
+MercyME: 1
+Modest_Mouse: 1
+Rihanna: 1
+Sam_Cooke: 1
+Stars: 1
+Trisha_Yearwood: 2
+
+Statistics for demanding_instrumental_part_writing
+Size for the fold: 42 songs
+Number of artists: 38
+Number of songs: 45
+Number of songs per artist:
+Average_White_Band: 1
+Bert_Jansch: 1
+Billy_Preston: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Booker_T__The_MGs: 2
+Buffalo_Springfield: 1
+Burl_Ives: 1
+Carpenters: 2
+Chet_Atkins__Les_Paul: 1
+Cocoa_Tea: 1
+Collective_Soul: 1
+Darryl_Worley: 1
+Dar_Williams: 2
+Doyle_Dykes: 1
+Etta_Baker: 1
+Evelyn_Champagne_King: 1
+Gold_City: 1
+Heatwave: 1
+Jay__The_Americans: 1
+Joe_Bonamassa: 1
+Johnny_Winter: 1
+Josh_Turner: 1
+Led_Zeppelin: 3
+Margot__The_Nuclear_So_And_Sos: 1
+Michael_Jackson: 2
+Mississippi_John_Hurt: 1
+Parliament: 1
+Secret_Garden: 1
+Shalamar: 1
+Shudder_To_Think: 1
+Smokey_Robinson__The_Miracles: 1
+Stray_Cats: 1
+Switchfoot: 1
+The_Derailers: 1
+The_Grascals: 2
+Thelma_Houston: 1
+White_Lion: 1
+Yellowcard: 1
+
+Statistics for mellow_rock_instrumentation
+Size for the fold: 28 songs
+Number of artists: 21
+Number of songs: 32
+Number of songs per artist:
+America: 2
+Cocoa_Tea: 1
+Dido: 1
+Eagles: 1
+Jack_Johnson: 6
+James_Taylor: 3
+Jenny_Lewis_with_The_Watson_Twins: 1
+Lyle_Lovett: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Mice_Parade: 1
+Okkervil_River: 2
+Patty_Griffin: 2
+Phil_Collins: 1
+Richard_Thompson: 2
+Secret_Garden: 1
+Spiritualized: 1
+The_Doors: 1
+Third_Day: 1
+Tom_Tom_Club: 1
+Tracy_Chapman: 1
+Vampire_Weekend: 1
+
+Statistics for a_smooth_male_vocal
+Size for the fold: 19 songs
+Number of artists: 12
+Number of songs: 16
+Number of songs per artist:
+James_Taylor: 3
+Jodeci: 1
+Josh_Turner: 2
+Joss_Stone: 1
+Lefty_Frizzell: 1
+Mel_Carter: 1
+Michael_Jackson: 1
+Okkervil_River: 1
+Prince__The_Revolution: 1
+Smokey_Robinson__The_Miracles: 2
+The_Edwin_Hawkins_Singers: 1
+The_Elegants: 1
+
+Statistics for an_instrumental_arrangement
+Size for the fold: 14 songs
+Number of artists: 12
+Number of songs: 13
+Number of songs per artist:
+Bert_Jansch: 1
+Billy_Preston: 1
+Booker_T__The_MGs: 2
+Boots_Randolph: 1
+Chet_Atkins__Les_Paul: 1
+Doyle_Dykes: 1
+Earl_Hooker: 1
+Etta_Baker: 1
+Liz_Story: 1
+Mice_Parade: 1
+Michael_Hedges: 1
+Secret_Garden: 1
+
+Statistics for heavy_metal
+Size for the fold: 26 songs
+Number of artists: 11
+Number of songs: 14
+Number of songs per artist:
+Black_Tide: 1
+Cinderella: 2
+Faith_No_More: 1
+George_Jones: 1
+Judas_Priest: 1
+Led_Zeppelin: 2
+Marilyn_Manson: 1
+Nirvana: 1
+Orgy: 1
+Rage_Against_The_Machine: 2
+White_Lion: 1
+
+Statistics for an_aggressive_male_vocalist
+Size for the fold: 15 songs
+Number of artists: 5
+Number of songs: 7
+Number of songs per artist:
+Cinderella: 1
+Creedence_Clearwater_Revival: 1
+Nirvana: 2
+Rage_Against_The_Machine: 2
+The_Offspring: 1
+
+Statistics for blues_roots
+Size for the fold: 7 songs
+Number of artists: 7
+Number of songs: 7
+Number of songs per artist:
+Buddy_Guy: 1
+Earl_Hooker: 1
+Etta_Baker: 1
+Joe_Bonamassa: 1
+Mississippi_John_Hurt: 1
+Muddy_Waters: 1
+Robert_Johnson: 1
+
+Statistics for a_busy_horn_section
+Size for the fold: 28 songs
+Number of artists: 24
+Number of songs: 29
+Number of songs per artist:
+Average_White_Band: 1
+Barbara_Acklin: 1
+Beirut: 1
+Betty_Everett: 1
+Chaka_Demus__Pliers: 1
+Clarence_Frogman_Henry: 1
+Cocoa_Tea: 1
+Fats_Domino: 1
+Frankie_Paul: 1
+Heatwave: 1
+Martha__The_Vandellas: 2
+Michael_Jackson: 2
+Okkervil_River: 1
+Parliament: 2
+Patty_Griffin: 1
+Portishead: 1
+Sam__Dave: 2
+Sizzla: 1
+Smokey_Robinson__The_Miracles: 2
+THE_AD_LIBS: 1
+The_Fortunes: 1
+War: 1
+Wild_Cherry: 1
+Zero_7: 1
+
+Statistics for triple_note_feel
+Size for the fold: 18 songs
+Number of artists: 24
+Number of songs: 25
+Number of songs per artist:
+Alan_Jackson: 1
+Buddy_Guy: 1
+Chris_Tomlin: 1
+Death_Cab_for_Cutie: 1
+Eagles: 1
+Fats_Domino: 1
+Gold_City: 1
+Jamie_Lidell: 1
+Josh_Turner: 1
+Joss_Stone: 1
+Little_Anthony_and_The_Imperials: 1
+Lucinda_Williams: 1
+Mel_Carter: 1
+Okkervil_River: 1
+Patty_Griffin: 2
+Pretenders: 1
+Richard_Thompson: 1
+Ritchie_Valens: 1
+Shudder_To_Think: 1
+Smokey_Robinson__The_Miracles: 1
+The_Felice_Brothers: 1
+The_Penguins: 1
+The_Shirelles: 1
+Zero_7: 1
+
+Statistics for country_roots
+Size for the fold: 17 songs
+Number of artists: 21
+Number of songs: 22
+Number of songs per artist:
+Alabama: 1
+Alan_Jackson: 1
+Alison_Krauss__Union_Station: 2
+Burl_Ives: 1
+Doyle_Dykes: 1
+George_Jones: 1
+Hank_Williams: 1
+Jamie_ONeal: 1
+Jason_Aldean: 1
+Johnny_Lee: 1
+Josh_Turner: 1
+Kathy_Mattea: 1
+Keith_Whitley: 1
+Lee_Ann_Womack: 1
+Lefty_Frizzell: 1
+Phil_Vassar: 1
+Steve_Earle: 1
+The_Derailers: 1
+Toby_Keith: 1
+Trisha_Yearwood: 1
+Webb_Pierce: 1
+
+Statistics for a_reggae_feel
+Size for the fold: 6 songs
+Number of artists: 7
+Number of songs: 7
+Number of songs per artist:
+Buju_Banton: 1
+Cocoa_Tea: 1
+Frankie_Paul: 1
+Ini_Kamoze: 1
+Musical_Youth: 1
+Sizzla: 1
+Tanto_Metro__Devonte: 1
+
+Statistics for blues_influences
+Size for the fold: 22 songs
+Number of artists: 23
+Number of songs: 29
+Number of songs per artist:
+Bert_Jansch: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Booker_T__The_MGs: 1
+Chris_Kenner: 1
+Clarence_Frogman_Henry: 1
+Creedence_Clearwater_Revival: 3
+Fats_Domino: 2
+Jackie_Wilson: 1
+Jamie_Lidell: 1
+Johnny_Lee: 1
+Johnny_Winter: 1
+Led_Zeppelin: 1
+Lucinda_Williams: 1
+Mississippi_John_Hurt: 3
+Mitch_Ryder__The_Detroit_Wheels: 1
+Otis_Redding: 1
+Patty_Griffin: 2
+Ritchie_Valens: 1
+Solomon_Burke: 1
+Son_House: 1
+THE_AD_LIBS: 1
+The_Original_Five_Blind_Boys_Of_Alabama: 1
+The_Penguins: 1
+
+Statistics for solo_strings
+Size for the fold: 14 songs
+Number of artists: 21
+Number of songs: 23
+Number of songs per artist:
+Alan_Jackson: 1
+Alison_Krauss__Union_Station: 1
+Beirut: 1
+Bob_Wills__His_Texas_Playboys__Tommy_Duncan: 1
+Darryl_Worley: 1
+Dar_Williams: 1
+George_Jones: 1
+Josh_Turner: 1
+Lefty_Frizzell: 1
+Margot__The_Nuclear_So_And_Sos: 1
+Modest_Mouse: 1
+Nitty_Gritty_Dirt_Band: 1
+Patty_Griffin: 1
+Phil_Vassar: 1
+Richard_Thompson: 1
+Secret_Garden: 1
+The_Felice_Brothers: 1
+The_Grascals: 3
+Vampire_Weekend: 1
+Webb_Pierce: 1
+Yellowcard: 1
+
+Statistics for folk_roots
+Size for the fold: 14 songs
+Number of artists: 11
+Number of songs: 13
+Number of songs per artist:
+Dido: 1
+Gillian_Welch: 1
+Jenny_Lewis_with_The_Watson_Twins: 1
+Lucinda_Williams: 1
+Mississippi_John_Hurt: 3
+Nitty_Gritty_Dirt_Band: 1
+Patty_Griffin: 1
+Richard_Thompson: 1
+Ryan_Adams: 1
+Simon__Garfunkel: 1
+Son_House: 1

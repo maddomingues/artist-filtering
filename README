@@ -1,0 +1,58 @@
+
+Artist filtering with tag balancing
+
+
+1) DESCRIPTION
+
+We can use this R script to split a data set into n folds; where each artist, and its respective songs and tags, will appear in only one fold; and the number of artists and songs per tag will be balanced among the folds.
+
+
+2) HOW TO USE IT?
+
+In the R environment, we must load the R script using the command: source('artist_filtering_with_tag_balancing.R')
+
+Then, we run the script using the following command: artist_filtering_with_tag_balancing(input='weaklabel.k3p30.h.csv', nfolds=3, minpertag=5)
+
+We must setup 3 parameters in the script:
+
+- input: The input file;
+- nfolds: Number of folds we want to split our data set (default 3);
+- minpertag: Number minimum of songs per tag that must be in each fold. When the tag does not have the minimum number of songs, the tag and its songs are removed from all folds (default 5).
+
+
+3) INPUT DATA SET FORMAT
+
+The input data is a text file with 3 columns separated by the special character "\t" (tab). In the first column we have the artists, in the second one we have the song file names, and finally, we have the tags in the third column. Following we have an illustrative example of input data format. In the directory "example/input/" we have a real example of input data file ("input.csv").
+
+artist1	song1.mp3	tag1
+artist1	song2.mp3	tag1
+artist1	song3.mp3	tag1
+artist2	song4.mp3	tag1
+artist3	song5.mp3	tag1
+artist4	song34.mp3	tag1
+artist5	song44.mp3	tag1
+artist6	song11.mp3	tag2
+artist6	song23.mp3	tag2
+artist7	song33.mp3	tag2
+artist8	song55.mp3	tag2
+artist8	song56.mp3	tag2
+artist8	song57.mp3	tag2
+
+
+4) OUTPUT FILES
+
+The R script will output the 9 files described below:
+
+- dataset_fold_1.csv: A file containing artists, songs and tags for the fold 1. The data fields are separated by the special character "\t" (tab);
+- dataset_fold_2.csv: A file containing artists, songs and tags for the fold 2. The data fields are separated by the special character "\t" (tab);
+- dataset_fold_3.csv: A file containing artists, songs and tags for the fold 3. The data fields are separated by the special character "\t" (tab);
+- statistic_fold_1.txt: Statistics for the fold 1;
+- statistic_fold_2.txt: Statistics for the fold 2;
+- statistic_fold_3.txt: Statistics for the fold 3;
+- songFiles.txt: List of song file names in all folds;
+- tagVocabulary.txt: List of tags in all folds;
+- tags_with_few_examples.txt: List of tags with less songs than the minimum number of songs per tag setup in the parameter "minpertag". Those tags with the respective artists and songs were removed from all folds.
+
+A real example of output files can be found in the directory "example/output/".
+
+
